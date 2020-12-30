@@ -2,7 +2,7 @@
 <source>
   <publisher>Onin</publisher>
   <publisherurl>https://jobs.oningroup.com/global/en</publisherurl>
-  <lastBuildDate>Wed, 30 Dec 2020 16:08:27 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 30 Dec 2020 17:54:01 GMT</lastBuildDate>
   
       <job>
           <title><![CDATA[Onin Staffing is Looking for 1st and 2nd Shift Floor Support]]></title>
@@ -1335,6 +1335,29 @@
           <jobcode><![CDATA[]]></jobcode>
           
             <jobBoardId><![CDATA[ BHCP]]></jobBoardId>
+          
+      </job>
+  
+      <job>
+          <title><![CDATA[Extrusion Machine Operator ]]></title>
+          <date><![CDATA[12/30/2020]]></date>
+          <referencenumber><![CDATA[ONINGLOBALP-100773en_GLOBAL]]></referencenumber>
+          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100773en_GLOBAL/Extrusion-Machine-Operator?utm_source=indeed&utm_medium=phenom-feeds]]></url>
+          <company><![CDATA[Onin]]></company>
+          <city><![CDATA[Statesville]]></city>
+          <state><![CDATA[North Carolina]]></state>
+          <country><![CDATA[United States]]></country>
+          <postalcode><![CDATA[]]></postalcode>
+          <description><![CDATA[<strong>Job Requirements </strong><br><p>Onin Staffing in Statesville now hiring for extrusion machine operators!</p><p>these are 1st and 3rd shift positions on a 12hr rotating schedule.</p><p>Payrate starting is $15.00/hr</p><br/><p><strong>Responsible for operating and maintaining machines that extrude or draw out thermoplastic or metal materials into hoses, bars, tubes, rods, wires, or structures</strong></p><p><strong>Extrusion Operator sets up and operates an extrusion machine in accordance with established procedures, guidelines, and customer requirements. Reads and interprets blueprints and diagrams to select, position, and secure machinery. Being an Extrusion Operator adjusts and cleans machines</strong></p><br/><br><br><strong>Work Experience </strong><br><p>2 years experience in Machine Operating </p><br><br><strong>Benefits </strong><br><p><span style="color: rgb(34, 34, 34);">Onin believes that your health is important. Medical benefits should be affordable and easy to use with your busy schedule. That’s why we offer our teammates custom-built benefits that are affordable and convenient to use. When you’re a part of our team, you have will have affordable benefits you’ll actually want to use such as; $5 Prescription drug copays, $5 Doctor’s Visit copays, Free Teledoctor Service, Free Counseling Services, Life Insurance Included, Vision Insurance Included, Dental Insurance Included, Vacation and Holiday Pay and Scholarship Opportunities. You will get these amazing benefits and more after just 30 days. Weekly Pay!</span></p><br><br>]]></description>
+          <jobtype><![CDATA[External (Teammate)]]></jobtype>
+          <category><![CDATA[Assembly & Manufacturing]]></category>
+          <subcategory><![CDATA[]]></subcategory>
+          <reqid><![CDATA[P-100773]]></reqid>
+          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
+          <expirationdate><![CDATA[2021-01-27T15:13:17.000Z]]></expirationdate>
+          <jobcode><![CDATA[]]></jobcode>
+          
+            <jobBoardId><![CDATA[ STAT]]></jobBoardId>
           
       </job>
   
@@ -3133,6 +3156,29 @@
       </job>
   
       <job>
+          <title><![CDATA[2nd Shift Quality Inspector]]></title>
+          <date><![CDATA[12/30/2020]]></date>
+          <referencenumber><![CDATA[ONINGLOBALP-100782en_GLOBAL]]></referencenumber>
+          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100782en_GLOBAL/2nd-Shift-Quality-Inspector?utm_source=indeed&utm_medium=phenom-feeds]]></url>
+          <company><![CDATA[Onin]]></company>
+          <city><![CDATA[Morgantown]]></city>
+          <state><![CDATA[Kentucky]]></state>
+          <country><![CDATA[United States]]></country>
+          <postalcode><![CDATA[]]></postalcode>
+          <description><![CDATA[<strong>Job Requirements </strong><br><p>Onin Staffing is currently seeking a quality inspector for a client in the Morgantown, Ky area. This is a temp to perm position, working 2nd shift. The hours for 2nd shift are 3p-11:30p. This position will be starting on January 4th. </p><br/><p>Performance based raises are given out at 30, 60, and 90 days.</p><br/><p>Please contact us at 270-968-0263 if you are interested!</p><br><br><strong>Work Experience </strong><br><p><span style="color: rgb(66, 66, 66);">No prior experience is needed, as you will be trained. Previous quality inspector experience is a plus!</span></p><br><br><strong>Benefits </strong><br><p><span style="color: rgb(66, 66, 66);">Onin believes that your health is important. Medical benefits should be affordable and easy to use with your busy schedule. That’s why we offer our teammates custom-built benefits that are affordable and convenient to use. When you’re a part of our team, you will have affordable benefits you’ll actually want to use such as; $5 Prescription drug copays, $5 Doctor’s Visit copays, Free Teledoctor Service, Free Counseling Services, Life Insurance Included, Vision Insurance Included, Dental Insurance Included, Vacation and Holiday Pay and Scholarship Opportunities. You will get these amazing benefits and more after just 30 days.</span></p><br><br>]]></description>
+          <jobtype><![CDATA[External (Teammate)]]></jobtype>
+          <category><![CDATA[Warehouse & Logistics]]></category>
+          <subcategory><![CDATA[]]></subcategory>
+          <reqid><![CDATA[P-100782]]></reqid>
+          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
+          <expirationdate><![CDATA[2021-01-20T17:14:16.000Z]]></expirationdate>
+          <jobcode><![CDATA[]]></jobcode>
+          
+            <jobBoardId><![CDATA[ BOWL]]></jobBoardId>
+          
+      </job>
+  
+      <job>
           <title><![CDATA[Customer Service Supervisor]]></title>
           <date><![CDATA[12/30/2020]]></date>
           <referencenumber><![CDATA[ONINGLOBALP-100761en_GLOBAL]]></referencenumber>
@@ -3149,6 +3195,29 @@
           <reqid><![CDATA[P-100761]]></reqid>
           <indeed-apply-data><![CDATA[]]></indeed-apply-data>
           <expirationdate><![CDATA[2021-01-29T13:37:19.000Z]]></expirationdate>
+          <jobcode><![CDATA[]]></jobcode>
+          
+            <jobBoardId><![CDATA[ MOOR]]></jobBoardId>
+          
+      </job>
+  
+      <job>
+          <title><![CDATA[Production Line Worker]]></title>
+          <date><![CDATA[12/30/2020]]></date>
+          <referencenumber><![CDATA[ONINGLOBALP-100786en_GLOBAL]]></referencenumber>
+          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100786en_GLOBAL/Production-Line-Worker?utm_source=indeed&utm_medium=phenom-feeds]]></url>
+          <company><![CDATA[Onin]]></company>
+          <city><![CDATA[Mooresville]]></city>
+          <state><![CDATA[North Carolina]]></state>
+          <country><![CDATA[United States]]></country>
+          <postalcode><![CDATA[]]></postalcode>
+          <description><![CDATA[<strong>Job Requirements </strong><br><ul><li>Monitor product on the assembly line</li><li>Perform Quality checks on product</li><li>Pull product and stack</li></ul><br/><br><br><strong>Work Experience </strong><br><ul><li>High school diploma or GED</li><li>Ability to stand for long periods of time</li><li>Must be able to work 12 hours shifts</li><li>Must wear Slip resistant shoes</li></ul><br/><br/><br><br><strong>Benefits </strong><br><br/><p><span style="color: rgb(34, 34, 34);">Onin believes that your health is important. Medical benefits should be affordable and easy to use with your busy schedule. That’s why we offer our teammates custom-built benefits that are affordable and convenient to use. When you’re a part of our team, you will have affordable benefits you’ll actually want to use such as; $5 Prescription drug copays, $5 Doctor’s Visit copays, Free Teledoctor Service, Free Counseling Services, Life Insurance Included, Vision Insurance Included, Dental Insurance Included, Vacation and Holiday Pay and Scholarship Opportunities. You will get these amazing benefits and more after just 30 days.</span></p><br><br>]]></description>
+          <jobtype><![CDATA[External (Teammate)]]></jobtype>
+          <category><![CDATA[Assembly & Manufacturing]]></category>
+          <subcategory><![CDATA[]]></subcategory>
+          <reqid><![CDATA[P-100786]]></reqid>
+          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
+          <expirationdate><![CDATA[2021-01-29T17:26:26.000Z]]></expirationdate>
           <jobcode><![CDATA[]]></jobcode>
           
             <jobBoardId><![CDATA[ MOOR]]></jobBoardId>
@@ -3547,29 +3616,6 @@
       </job>
   
       <job>
-          <title><![CDATA[Forklift Operator ]]></title>
-          <date><![CDATA[12/29/2020]]></date>
-          <referencenumber><![CDATA[ONINGLOBALP-100076en_GLOBAL]]></referencenumber>
-          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100076en_GLOBAL/Forklift-Operator?utm_source=indeed&utm_medium=phenom-feeds]]></url>
-          <company><![CDATA[Onin]]></company>
-          <city><![CDATA[Jefferson]]></city>
-          <state><![CDATA[Georgia]]></state>
-          <country><![CDATA[United States]]></country>
-          <postalcode><![CDATA[]]></postalcode>
-          <description><![CDATA[<strong>Job Requirements </strong><br><p><em style="color: rgb(45, 45, 45);">We are looking for experienced and energetic forklift operators to join our team at a warehouse in Jefferson, GA!</em></p><p><strong style="color: rgb(45, 45, 45);"><em>1st shift- 6:00 AM- 5:00 PM, Monday through Friday- Pay rate: Starting at $14.50/hour</em></strong></p><p><strong style="color: rgb(45, 45, 45);"><em>3rd Shift- 8:00 PM- 5:00 AM, Sunday through Thursday- </em>Pay rate: Starting at $15.50/hour</strong></p><p>· Operate a Sit-Down Forklif<strong>t </strong>to load and unload tractors from inside of trailers</p><p>· Place tractors to the designated area in the warehouse</p><p>· Sometimes will be required to drive equipment off the flatbed trucks</p><br><br><strong>Work Experience </strong><br><p>· Must be very detail-oriented</p><p>· Must have at least 2 years of experience operating a sit-down Forklift</p><p>· Heavy lifting</p><p>· Overtime is mandatory when needed</p><br><br><strong>Benefits </strong><br><p><span style="color: rgb(34, 34, 34);">Onin believes that your health is important. Medical benefits should be affordable and easy to use with your busy schedule. That’s why we offer our teammates custom-built benefits that are affordable and convenient to use. When you’re a part of our team, you have will have affordable benefits you’ll actually want to use such as; $5 Prescription drug copays, $5 Doctor’s Visit copays, Free Teledoctor Service, Free Counseling Services, Life Insurance Included, Vision Insurance Included, Dental Insurance Included, Vacation and Holiday Pay and Scholarship Opportunities. You will get these amazing benefits and more after just 30 days.</span></p><br><br>]]></description>
-          <jobtype><![CDATA[External (Teammate)]]></jobtype>
-          <category><![CDATA[Warehouse & Logistics]]></category>
-          <subcategory><![CDATA[]]></subcategory>
-          <reqid><![CDATA[P-100076]]></reqid>
-          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
-          <expirationdate><![CDATA[]]></expirationdate>
-          <jobcode><![CDATA[]]></jobcode>
-          
-            <jobBoardId><![CDATA[ Gain]]></jobBoardId>
-          
-      </job>
-  
-      <job>
           <title><![CDATA[General Labor / Warehouse]]></title>
           <date><![CDATA[12/29/2020]]></date>
           <referencenumber><![CDATA[ONINGLOBALP-100698en_GLOBAL]]></referencenumber>
@@ -3589,29 +3635,6 @@
           <jobcode><![CDATA[]]></jobcode>
           
             <jobBoardId><![CDATA[ BHCP]]></jobBoardId>
-          
-      </job>
-  
-      <job>
-          <title><![CDATA[Warehouse Worker]]></title>
-          <date><![CDATA[12/29/2020]]></date>
-          <referencenumber><![CDATA[ONINGLOBALP-100716en_GLOBAL]]></referencenumber>
-          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100716en_GLOBAL/Warehouse-Worker?utm_source=indeed&utm_medium=phenom-feeds]]></url>
-          <company><![CDATA[Onin]]></company>
-          <city><![CDATA[Roanoke]]></city>
-          <state><![CDATA[Texas]]></state>
-          <country><![CDATA[United States]]></country>
-          <postalcode><![CDATA[]]></postalcode>
-          <description><![CDATA[<strong>Job Requirements </strong><br><p><strong style="color: rgb(0, 0, 0);">Warehouse Worker</strong></p><p><strong style="color: rgb(0, 0, 0);">Shift: FIRST (Monday - Friday from 5am to 3:30pm)<em> * Saturdays and Overtime as Required *</em></strong></p><p><strong style="color: rgb(0, 0, 0);">Pay Rate: $12.00 / hr</strong></p><br/><p><strong style="color: rgb(0, 0, 0);">Our Opportunity:</strong></p><p><span style="color: rgb(0, 0, 0);">Our client is in the food distribution business and we're looking for Warehouse Workers that are ready to start TODAY!</span></p><br/><p><strong style="color: rgb(0, 0, 0);">What you'll do as a Warehouse Worker:</strong></p><p><span style="color: rgb(0, 0, 0);">As a Warehouse Worker, you will work in a warehouse environment performing a wide variety of essential production duties.</span></p><br/><ul><li><span style="color: rgb(0, 0, 0);">Picking</span></li><li><span style="color: rgb(0, 0, 0);">Packing</span></li><li><span style="color: rgb(0, 0, 0);">Palletizing</span></li><li><span style="color: rgb(0, 0, 0);">Assembly of cardboard displays</span></li><li><span style="color: rgb(0, 0, 0);">Other duties as assigned</span></li></ul><br><br><strong>Work Experience </strong><br><ul><li><span style="color: rgb(0, 0, 0);">Warehouse experience a plus</span></li><li><span style="color: rgb(0, 0, 0);">Available to start IMMEDIATELY</span></li></ul><br/><p><strong style="color: rgb(0, 0, 0);"><em>*Ability to pass a background check, drug screen, and E-Verify*</em></strong></p><br/><p style="text-align: center;"><strong style="color: rgb(0, 0, 0);"><em>﻿</em>We don't hire temps, we hire <em>TEAMMATES!</em></strong></p><p style="text-align: center;"><img src="https://static-im.phenompeople.com/CareerConnectResources/images/ONINGLOBAL/Joinourteam_1607985798010.png"></p><p style="text-align: center;"><span style="color: rgb(0, 0, 0);">If this sounds like the right job for you, please apply online or in-person Monday - Friday from 8am to 5pm! Not for you, but someone you know? Share this job with them and then check out our other available jobs. No appointment necessary and guaranteed interviews! Each application submitted gets individually reviewed by our team and retained in case a great opportunity opens for you with any of our locations to join our Team. Don’t wait, we want YOU to be our next </span><em style="color: rgb(0, 0, 0);">Teammate!</em></p><p style="text-align: center;"><br></p><p style="text-align: center;"><strong style="color: rgb(0, 0, 0);">Ōnin Staffing – Denton</strong></p><p style="text-align: center;"><strong style="color: rgb(0, 0, 0);">2219 S. Loop 288, Suite 211</strong></p><p style="text-align: center;"><strong style="color: rgb(0, 0, 0);">Denton, TX 76205</strong></p><p style="text-align: center;"><strong style="color: rgb(0, 0, 0);">Ph: 940-808-1267 (call or text)</strong></p><p style="text-align: center;"><strong style="color: rgb(0, 0, 0);">Email: DENT@oninstaffing.com</strong></p><br><br><strong>Benefits </strong><br><p><span style="color: rgb(0, 0, 0);">Ōnin</span><span style="color: rgb(67, 81, 92);"> </span><span style="color: black;">believes that your health is important. Medical benefits should be affordable and easy to use with your busy schedule. That's why we offer our teammates custom-built benefits that are affordable and convenient to use. When you're a part of our team, you will have affordable benefits you'll actually want to use such as; $5 Prescription drug copays, $5 Doctor's Visit copays, Free Teledoctor Service, Free Counseling Services, Life Insurance Included, Vision Insurance Included, Dental Insurance Included, Vacation and Holiday Pay and Scholarship Opportunities. You will get these amazing benefits and more after just 30 days.</span></p><br><br>]]></description>
-          <jobtype><![CDATA[External (Teammate)]]></jobtype>
-          <category><![CDATA[Warehouse & Logistics]]></category>
-          <subcategory><![CDATA[]]></subcategory>
-          <reqid><![CDATA[P-100716]]></reqid>
-          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
-          <expirationdate><![CDATA[2021-01-29T14:59:27.000Z]]></expirationdate>
-          <jobcode><![CDATA[]]></jobcode>
-          
-            <jobBoardId><![CDATA[ dent]]></jobBoardId>
           
       </job>
   
@@ -4628,29 +4651,6 @@
       </job>
   
       <job>
-          <title><![CDATA[Sales/Marketing Administrator]]></title>
-          <date><![CDATA[12/30/2020]]></date>
-          <referencenumber><![CDATA[ONINGLOBALP-100760en_GLOBAL]]></referencenumber>
-          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100760en_GLOBAL/Sales-Marketing-Administrator?utm_source=indeed&utm_medium=phenom-feeds]]></url>
-          <company><![CDATA[Onin]]></company>
-          <city><![CDATA[Mooresville]]></city>
-          <state><![CDATA[North Carolina]]></state>
-          <country><![CDATA[United States]]></country>
-          <postalcode><![CDATA[]]></postalcode>
-          <description><![CDATA[<strong>Job Requirements </strong><br><ul><li>Acting as the main point of contact for general sales queries</li><li>Supporting the sales team to ensure all sales targets are being met across franchises, key accounts and agents</li><li>Maintaining a full understanding of sales targets across all territories</li><li>Supporting with showroom management - appointments, layout, sales performance and ensuring all sales are captured</li><li>Working with the sales team to ensure they are briefed and aware of any activity</li><li>Acting as an ambassador for the company and in the interest of the business at all times</li><li>Managing the events trade calendar and ensure all assets are briefed in and signed off on time</li><li>Supporting with events across the business</li><li>Supporting on all wholesale projects that need implementing</li><li>Must be willing to travel</li></ul><br/><br><br><strong>Work Experience </strong><br><ul><li>Strong Customer Service</li><li>Sales and Marketing Administration</li><li>HS Diploma or GED</li><li>Must be willing to travel</li><li>Required 2 years experience</li></ul><br/><br><br><strong>Benefits </strong><br><br/><p><span style="color: rgb(34, 34, 34);">Onin believes that your health is important. Medical benefits should be affordable and easy to use with your busy schedule. That’s why we offer our teammates custom-built benefits that are affordable and convenient to use. When you’re a part of our team, you will have affordable benefits you’ll actually want to use such as; $5 Prescription drug copays, $5 Doctor’s Visit copays, Free Teledoctor Service, Free Counseling Services, Life Insurance Included, Vision Insurance Included, Dental Insurance Included, Vacation and Holiday Pay and Scholarship Opportunities. You will get these amazing benefits and more after just 30 days.</span></p><br><br>]]></description>
-          <jobtype><![CDATA[External (Teammate)]]></jobtype>
-          <category><![CDATA[Office & Administration]]></category>
-          <subcategory><![CDATA[]]></subcategory>
-          <reqid><![CDATA[P-100760]]></reqid>
-          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
-          <expirationdate><![CDATA[2021-01-29T13:12:49.000Z]]></expirationdate>
-          <jobcode><![CDATA[]]></jobcode>
-          
-            <jobBoardId><![CDATA[ MOOR]]></jobBoardId>
-          
-      </job>
-  
-      <job>
           <title><![CDATA[Recruiting Specialist]]></title>
           <date><![CDATA[12/30/2020]]></date>
           <referencenumber><![CDATA[ONINGLOBALP-100734en_GLOBAL]]></referencenumber>
@@ -4670,29 +4670,6 @@
           <jobcode><![CDATA[]]></jobcode>
           
             <jobBoardId><![CDATA[ BROK]]></jobBoardId>
-          
-      </job>
-  
-      <job>
-          <title><![CDATA[Maintenance Technician]]></title>
-          <date><![CDATA[12/30/2020]]></date>
-          <referencenumber><![CDATA[ONINGLOBALP-100764en_GLOBAL]]></referencenumber>
-          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100764en_GLOBAL/Maintenance-Technician?utm_source=indeed&utm_medium=phenom-feeds]]></url>
-          <company><![CDATA[Onin]]></company>
-          <city><![CDATA[Birmingham]]></city>
-          <state><![CDATA[Alabama]]></state>
-          <country><![CDATA[United States]]></country>
-          <postalcode><![CDATA[]]></postalcode>
-          <description><![CDATA[<strong>Job Requirements </strong><br><p><span style="color: rgb(45, 45, 45);">We are hiring for a Maintenance Technician to join the team in Birmingham, AL. This a direct hire opportunity. Great potential for growth and full time benefits to include health, dental, vision, and 401K.</span></p><p><span style="color: rgb(45, 45, 45);">1st shift 7:00am-3:30pm Monday - Friday</span></p><p><span style="color: rgb(45, 45, 45);">Starting Pay $18.00 per hour</span></p><p><strong><u>SUMMARY</u></strong>:&nbsp;The primary focus of this position is to perform assigned work related to the maintenance and improvement of the manufacturing plant equipment and building.&nbsp;In addition, the maintenance technician may be required to fill in or otherwise contribute to the operation of the plant including manual labor if necessary.<span style="color: blue;"> </span></p><p><strong><u>CRITICAL SKILLS</u></strong>:&nbsp;Troubleshooting and maintenance of manufacturing equipment which will require mechanical, electrical, and instrumentation skills and understanding.&nbsp;</p><br/><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Perform preventive maintenance on plant equipment. </p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Respond to equipment outages and troubleshoot as necessary. iii. Execute various electrical, mechanical, and instrumentation aspects of improvement projects </p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Complete documentation as required by the plant preventive maintenance and work order systems. </p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Operate forklift, scissor lift, and other material handling equipment. Must be able to perform basic math </p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Develop a thorough technical understanding of the plant equipment. </p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Be instrumental in continuous improvement efforts related to safety quality, and efficiency.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flexible to work overtime if needed.&nbsp;In our industry, all overtime is not scheduled as we get rush orders from time-to-time. </p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Apply specific maintenance and repair procedures to install, maintain and repair production machinery and equipment as well as maintaining the buildings and grounds</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: rgb(45, 45, 45);">Ability to read, write, and perform complex math</span></p><ul><li>Ability to stand on your feet for extended periods of time</li></ul><p>&nbsp;</p><br/><p><span style="color: rgb(45, 45, 45);">Job Type: Full-time</span></p><p><span style="color: rgb(45, 45, 45);">Pay: $18.00 per hour</span></p><p>&nbsp;</p><br><br><strong>Benefits </strong><br><p>Health, Dental, Vision, 401K, Holiday and Vacation Pay			</p><br><br>]]></description>
-          <jobtype><![CDATA[External (Teammate)]]></jobtype>
-          <category><![CDATA[Skilled Labor]]></category>
-          <subcategory><![CDATA[]]></subcategory>
-          <reqid><![CDATA[P-100764]]></reqid>
-          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
-          <expirationdate><![CDATA[2021-01-08T14:28:55.000Z]]></expirationdate>
-          <jobcode><![CDATA[]]></jobcode>
-          
-            <jobBoardId><![CDATA[ BHCP]]></jobBoardId>
           
       </job>
   
@@ -4720,6 +4697,121 @@
       </job>
   
       <job>
+          <title><![CDATA[Maintenance Technician]]></title>
+          <date><![CDATA[12/30/2020]]></date>
+          <referencenumber><![CDATA[ONINGLOBALP-100764en_GLOBAL]]></referencenumber>
+          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100764en_GLOBAL/Maintenance-Technician?utm_source=indeed&utm_medium=phenom-feeds]]></url>
+          <company><![CDATA[Onin]]></company>
+          <city><![CDATA[Birmingham]]></city>
+          <state><![CDATA[Alabama]]></state>
+          <country><![CDATA[United States]]></country>
+          <postalcode><![CDATA[]]></postalcode>
+          <description><![CDATA[<strong>Job Requirements </strong><br><p><span style="color: rgb(45, 45, 45);">We are hiring for a Maintenance Technician to join the team in Birmingham, AL. This a direct hire opportunity. Great potential for growth and full time benefits to include health, dental, vision, and 401K.</span></p><p><span style="color: rgb(45, 45, 45);">1st shift 7:00am-3:30pm Monday - Friday</span></p><p><span style="color: rgb(45, 45, 45);">Starting Pay $18.00 per hour</span></p><p><strong><u>SUMMARY</u></strong>:&nbsp;The primary focus of this position is to perform assigned work related to the maintenance and improvement of the manufacturing plant equipment and building.&nbsp;In addition, the maintenance technician may be required to fill in or otherwise contribute to the operation of the plant including manual labor if necessary.<span style="color: blue;"> </span></p><p><strong><u>CRITICAL SKILLS</u></strong>:&nbsp;Troubleshooting and maintenance of manufacturing equipment which will require mechanical, electrical, and instrumentation skills and understanding.&nbsp;</p><br/><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Perform preventive maintenance on plant equipment. </p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Respond to equipment outages and troubleshoot as necessary. iii. Execute various electrical, mechanical, and instrumentation aspects of improvement projects </p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Complete documentation as required by the plant preventive maintenance and work order systems. </p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Operate forklift, scissor lift, and other material handling equipment. Must be able to perform basic math </p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Develop a thorough technical understanding of the plant equipment. </p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Be instrumental in continuous improvement efforts related to safety quality, and efficiency.</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flexible to work overtime if needed.&nbsp;In our industry, all overtime is not scheduled as we get rush orders from time-to-time. </p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Apply specific maintenance and repair procedures to install, maintain and repair production machinery and equipment as well as maintaining the buildings and grounds</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: rgb(45, 45, 45);">Ability to read, write, and perform complex math</span></p><ul><li>Ability to stand on your feet for extended periods of time</li></ul><p>&nbsp;</p><br/><p><span style="color: rgb(45, 45, 45);">Job Type: Full-time</span></p><p><span style="color: rgb(45, 45, 45);">Pay: $18.00 per hour</span></p><p>&nbsp;</p><br><br><strong>Benefits </strong><br><p>Health, Dental, Vision, 401K, Holiday and Vacation Pay			</p><br><br>]]></description>
+          <jobtype><![CDATA[External (Teammate)]]></jobtype>
+          <category><![CDATA[Skilled Labor]]></category>
+          <subcategory><![CDATA[]]></subcategory>
+          <reqid><![CDATA[P-100764]]></reqid>
+          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
+          <expirationdate><![CDATA[2021-01-08T14:28:55.000Z]]></expirationdate>
+          <jobcode><![CDATA[]]></jobcode>
+          
+            <jobBoardId><![CDATA[ BHCP]]></jobBoardId>
+          
+      </job>
+  
+      <job>
+          <title><![CDATA[Sales/Marketing Administrator]]></title>
+          <date><![CDATA[12/30/2020]]></date>
+          <referencenumber><![CDATA[ONINGLOBALP-100760en_GLOBAL]]></referencenumber>
+          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100760en_GLOBAL/Sales-Marketing-Administrator?utm_source=indeed&utm_medium=phenom-feeds]]></url>
+          <company><![CDATA[Onin]]></company>
+          <city><![CDATA[Mooresville]]></city>
+          <state><![CDATA[North Carolina]]></state>
+          <country><![CDATA[United States]]></country>
+          <postalcode><![CDATA[]]></postalcode>
+          <description><![CDATA[<strong>Job Requirements </strong><br><ul><li>Acting as the main point of contact for general sales queries</li><li>Supporting the sales team to ensure all sales targets are being met across franchises, key accounts and agents</li><li>Maintaining a full understanding of sales targets across all territories</li><li>Supporting with showroom management - appointments, layout, sales performance and ensuring all sales are captured</li><li>Working with the sales team to ensure they are briefed and aware of any activity</li><li>Acting as an ambassador for the company and in the interest of the business at all times</li><li>Managing the events trade calendar and ensure all assets are briefed in and signed off on time</li><li>Supporting with events across the business</li><li>Supporting on all wholesale projects that need implementing</li><li>Must be willing to travel</li></ul><br/><br><br><strong>Work Experience </strong><br><ul><li>Strong Customer Service</li><li>Sales and Marketing Administration</li><li>HS Diploma or GED</li><li>Must be willing to travel</li><li>Required 2 years experience</li></ul><br/><br><br><strong>Benefits </strong><br><br/><p><span style="color: rgb(34, 34, 34);">Onin believes that your health is important. Medical benefits should be affordable and easy to use with your busy schedule. That’s why we offer our teammates custom-built benefits that are affordable and convenient to use. When you’re a part of our team, you will have affordable benefits you’ll actually want to use such as; $5 Prescription drug copays, $5 Doctor’s Visit copays, Free Teledoctor Service, Free Counseling Services, Life Insurance Included, Vision Insurance Included, Dental Insurance Included, Vacation and Holiday Pay and Scholarship Opportunities. You will get these amazing benefits and more after just 30 days.</span></p><br><br>]]></description>
+          <jobtype><![CDATA[External (Teammate)]]></jobtype>
+          <category><![CDATA[Office & Administration]]></category>
+          <subcategory><![CDATA[]]></subcategory>
+          <reqid><![CDATA[P-100760]]></reqid>
+          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
+          <expirationdate><![CDATA[2021-01-29T13:12:49.000Z]]></expirationdate>
+          <jobcode><![CDATA[]]></jobcode>
+          
+            <jobBoardId><![CDATA[ MOOR]]></jobBoardId>
+          
+      </job>
+  
+      <job>
+          <title><![CDATA[Warehouse Worker]]></title>
+          <date><![CDATA[12/30/2020]]></date>
+          <referencenumber><![CDATA[ONINGLOBALP-100716en_GLOBAL]]></referencenumber>
+          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100716en_GLOBAL/Warehouse-Worker?utm_source=indeed&utm_medium=phenom-feeds]]></url>
+          <company><![CDATA[Onin]]></company>
+          <city><![CDATA[Roanoke]]></city>
+          <state><![CDATA[Texas]]></state>
+          <country><![CDATA[United States]]></country>
+          <postalcode><![CDATA[]]></postalcode>
+          <description><![CDATA[<strong>Job Requirements </strong><br><p><strong style="color: rgb(0, 0, 0);">Warehouse Worker</strong></p><p><strong style="color: rgb(0, 0, 0);">Shift: FIRST &amp; SECOND<em> * Saturdays and Overtime as Required *</em></strong></p><p><strong style="color: rgb(0, 0, 0);">Pay Rate: $12.00 / hr</strong></p><br/><p><strong style="color: rgb(0, 0, 0);">Our Opportunity:</strong></p><p><span style="color: rgb(0, 0, 0);">Our client is in the food distribution business and we're looking for Warehouse Workers that are ready to start TODAY!</span></p><br/><p><strong style="color: rgb(0, 0, 0);">What you'll do as a Warehouse Worker:</strong></p><p><span style="color: rgb(0, 0, 0);">As a Warehouse Worker, you will work in a warehouse environment performing a wide variety of essential production duties.</span></p><br/><ul><li><span style="color: rgb(0, 0, 0);">Picking</span></li><li><span style="color: rgb(0, 0, 0);">Packing</span></li><li><span style="color: rgb(0, 0, 0);">Palletizing</span></li><li><span style="color: rgb(0, 0, 0);">Assembly of cardboard displays</span></li><li><span style="color: rgb(0, 0, 0);">Other duties as assigned</span></li></ul><br><br><strong>Work Experience </strong><br><ul><li><span style="color: rgb(0, 0, 0);">Warehouse experience a plus</span></li><li><span style="color: rgb(0, 0, 0);">Available to start IMMEDIATELY</span></li></ul><br/><p><strong style="color: rgb(0, 0, 0);"><em>*Ability to pass a background check, drug screen, and E-Verify*</em></strong></p><br/><p style="text-align: center;"><strong style="color: rgb(0, 0, 0);"><em>﻿</em>We don't hire temps, we hire <em>TEAMMATES!</em></strong></p><p style="text-align: center;"><img src="https://static-im.phenompeople.com/CareerConnectResources/images/ONINGLOBAL/Joinourteam_1607985798010.png"></p><p style="text-align: center;"><span style="color: rgb(0, 0, 0);">If this sounds like the right job for you, please apply online or in-person Monday - Friday from 8am to 5pm! Not for you, but someone you know? Share this job with them and then check out our other available jobs. No appointment necessary and guaranteed interviews! Each application submitted gets individually reviewed by our team and retained in case a great opportunity opens for you with any of our locations to join our Team. Don’t wait, we want YOU to be our next </span><em style="color: rgb(0, 0, 0);">Teammate!</em></p><p style="text-align: center;"><br></p><p style="text-align: center;"><strong style="color: rgb(0, 0, 0);">Ōnin Staffing – Denton</strong></p><p style="text-align: center;"><strong style="color: rgb(0, 0, 0);">2219 S. Loop 288, Suite 211</strong></p><p style="text-align: center;"><strong style="color: rgb(0, 0, 0);">Denton, TX 76205</strong></p><p style="text-align: center;"><strong style="color: rgb(0, 0, 0);">Ph: 940-808-1267 (call or text)</strong></p><p style="text-align: center;"><strong style="color: rgb(0, 0, 0);">Email: DENT@oninstaffing.com</strong></p><br><br><strong>Benefits </strong><br><p><span style="color: rgb(0, 0, 0);">Ōnin</span><span style="color: rgb(67, 81, 92);"> </span><span style="color: black;">believes that your health is important. Medical benefits should be affordable and easy to use with your busy schedule. That's why we offer our teammates custom-built benefits that are affordable and convenient to use. When you're a part of our team, you will have affordable benefits you'll actually want to use such as; $5 Prescription drug copays, $5 Doctor's Visit copays, Free Teledoctor Service, Free Counseling Services, Life Insurance Included, Vision Insurance Included, Dental Insurance Included, Vacation and Holiday Pay and Scholarship Opportunities. You will get these amazing benefits and more after just 30 days.</span></p><br><br>]]></description>
+          <jobtype><![CDATA[External (Teammate)]]></jobtype>
+          <category><![CDATA[Warehouse & Logistics]]></category>
+          <subcategory><![CDATA[]]></subcategory>
+          <reqid><![CDATA[P-100716]]></reqid>
+          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
+          <expirationdate><![CDATA[2021-01-29T14:59:27.000Z]]></expirationdate>
+          <jobcode><![CDATA[]]></jobcode>
+          
+            <jobBoardId><![CDATA[ dent]]></jobBoardId>
+          
+      </job>
+  
+      <job>
+          <title><![CDATA[Accounting Assistant]]></title>
+          <date><![CDATA[12/30/2020]]></date>
+          <referencenumber><![CDATA[ONINGLOBALP-100771en_GLOBAL]]></referencenumber>
+          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100771en_GLOBAL/Accounting-Assistant?utm_source=indeed&utm_medium=phenom-feeds]]></url>
+          <company><![CDATA[Onin]]></company>
+          <city><![CDATA[Carthage]]></city>
+          <state><![CDATA[Missouri]]></state>
+          <country><![CDATA[United States]]></country>
+          <postalcode><![CDATA[]]></postalcode>
+          <description><![CDATA[<strong>Job Requirements </strong><br><p><span style="color: rgb(5, 5, 5);">•Prepare Weekly Yield reports as necessary</span></p><p><span style="color: rgb(5, 5, 5);">•Provide support for CI projects</span></p><p><span style="color: rgb(5, 5, 5);">•CER ROI analysis</span></p><p><span style="color: rgb(5, 5, 5);">•Product Costing</span></p><p><span style="color: rgb(5, 5, 5);">•Annual budgets</span></p><p><span style="color: rgb(5, 5, 5);">•Activity based costing</span></p><p><span style="color: rgb(5, 5, 5);">•Review data for potential cost reductions in all operations</span></p><p><span style="color: rgb(5, 5, 5);">•Prepare and review actual versus standard reports</span></p><p><span style="color: rgb(5, 5, 5);">•Provide oversight for all finished goods and WIP inventory programs</span></p><p><span style="color: rgb(5, 5, 5);">•Assist with Month End activities</span></p><p><span style="color: rgb(5, 5, 5);">•Conduct department Safety Meetings/Training</span></p><p><span style="color: rgb(5, 5, 5);">•Backup Payroll and the Accounting Manager as needed</span></p><br><br><strong>Work Experience </strong><br><p><span style="color: rgb(5, 5, 5);">•Bachelor's degree in accounting or business administration with advanced training in accounting</span></p><p><span style="color: rgb(5, 5, 5);">•4-5 years of related accounting experience</span></p><p><span style="color: rgb(5, 5, 5);">•Good analytical and organizational skills</span></p><br><br><strong>Benefits </strong><br><p><span style="color: rgb(34, 34, 34);">Onin believes that your health is important. Medical benefits should be affordable and easy to use with your busy schedule. That’s why we offer our teammates custom-built benefits that are affordable and convenient to use. When you’re a part of our team, you will have affordable benefits you’ll actually want to use such as; $5 Prescription drug copays, $5 Doctor’s Visit copays, Free Teledoctor Service, Free Counseling Services, Life Insurance Included, Vision Insurance Included, Dental Insurance Included, Vacation and Holiday Pay and Scholarship Opportunities. You will get these amazing benefits and more after just 30 days.</span></p><br><br>]]></description>
+          <jobtype><![CDATA[External (Teammate)]]></jobtype>
+          <category><![CDATA[Office & Administration]]></category>
+          <subcategory><![CDATA[]]></subcategory>
+          <reqid><![CDATA[P-100771]]></reqid>
+          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
+          <expirationdate><![CDATA[2021-01-31T16:40:59.000Z]]></expirationdate>
+          <jobcode><![CDATA[]]></jobcode>
+          
+            <jobBoardId><![CDATA[ NEOS]]></jobBoardId>
+          
+      </job>
+  
+      <job>
+          <title><![CDATA[Warehouse Worker]]></title>
+          <date><![CDATA[12/30/2020]]></date>
+          <referencenumber><![CDATA[ONINGLOBALP-100776en_GLOBAL]]></referencenumber>
+          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100776en_GLOBAL/Warehouse-Worker?utm_source=indeed&utm_medium=phenom-feeds]]></url>
+          <company><![CDATA[Onin]]></company>
+          <city><![CDATA[Neosho]]></city>
+          <state><![CDATA[Missouri]]></state>
+          <country><![CDATA[United States]]></country>
+          <postalcode><![CDATA[]]></postalcode>
+          <description><![CDATA[<strong>Job Requirements </strong><br><p><span style="color: rgb(5, 5, 5);">Filling containers</span></p><p><span style="color: rgb(5, 5, 5);">Unloading inventory from railcars </span></p><p><span style="color: rgb(5, 5, 5);">Use forklift to move inventory</span></p><p><span style="color: rgb(5, 5, 5);">Oversee robotic equipment </span></p><p><span style="color: rgb(5, 5, 5);">Keep warehouse clean and organized</span></p><br><br><strong>Work Experience </strong><br><p><span style="color: rgb(5, 5, 5);">Steel Toe Boots</span></p><p><span style="color: rgb(5, 5, 5);">Work is done mostly outdoors</span></p><p><span style="color: rgb(5, 5, 5);">Comfortable with heights </span></p><p><span style="color: rgb(5, 5, 5);">Background check and drug screen will be conducted</span></p><br><br><strong>Benefits </strong><br><p><span style="color: rgb(34, 34, 34);">Onin believes that your health is important. Medical benefits should be affordable and easy to use with your busy schedule. That’s why we offer our teammates custom-built benefits that are affordable and convenient to use. When you’re a part of our team, you will have affordable benefits you’ll actually want to use such as; $5 Prescription drug copays, $5 Doctor’s Visit copays, Free Teledoctor Service, Free Counseling Services, Life Insurance Included, Vision Insurance Included, Dental Insurance Included, Vacation and Holiday Pay and Scholarship Opportunities. You will get these amazing benefits and more after just 30 days.</span></p><br><br>]]></description>
+          <jobtype><![CDATA[External (Teammate)]]></jobtype>
+          <category><![CDATA[Food Processing]]></category>
+          <subcategory><![CDATA[]]></subcategory>
+          <reqid><![CDATA[P-100776]]></reqid>
+          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
+          <expirationdate><![CDATA[]]></expirationdate>
+          <jobcode><![CDATA[]]></jobcode>
+          
+            <jobBoardId><![CDATA[ NEOS]]></jobBoardId>
+          
+      </job>
+  
+      <job>
           <title><![CDATA[Entry-Level Machine Operator]]></title>
           <date><![CDATA[12/30/2020]]></date>
           <referencenumber><![CDATA[ONINGLOBALP-100730en_GLOBAL]]></referencenumber>
@@ -4734,6 +4826,98 @@
           <category><![CDATA[Assembly & Manufacturing]]></category>
           <subcategory><![CDATA[]]></subcategory>
           <reqid><![CDATA[P-100730]]></reqid>
+          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
+          <expirationdate><![CDATA[]]></expirationdate>
+          <jobcode><![CDATA[]]></jobcode>
+          
+            <jobBoardId><![CDATA[ Gain]]></jobBoardId>
+          
+      </job>
+  
+      <job>
+          <title><![CDATA[Forklift Operator ]]></title>
+          <date><![CDATA[12/30/2020]]></date>
+          <referencenumber><![CDATA[ONINGLOBALP-100076en_GLOBAL]]></referencenumber>
+          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100076en_GLOBAL/Forklift-Operator?utm_source=indeed&utm_medium=phenom-feeds]]></url>
+          <company><![CDATA[Onin]]></company>
+          <city><![CDATA[Jefferson]]></city>
+          <state><![CDATA[Georgia]]></state>
+          <country><![CDATA[United States]]></country>
+          <postalcode><![CDATA[]]></postalcode>
+          <description><![CDATA[<strong>Job Requirements </strong><br><p><em style="color: rgb(45, 45, 45);">We are looking for experienced and energetic forklift operators to join our team at a warehouse in Jefferson, GA!</em></p><p><strong style="color: rgb(45, 45, 45);"><em>1st shift- 6:00 AM- 5:00 PM, Monday through Friday- Pay rate: Starting at $14.50/hour</em></strong></p><p><strong style="color: rgb(45, 45, 45);"><em>3rd Shift- 8:00 PM- 5:00 AM, Sunday through Thursday- </em>Pay rate: Starting at $15.50/hour</strong></p><p>· Operate a Sit-Down Forklif<strong>t </strong>to load and unload tractors from inside of trailers</p><p>· Place tractors to the designated area in the warehouse</p><p>· Sometimes will be required to drive equipment off the flatbed trucks</p><br><br><strong>Work Experience </strong><br><p>· Must be very detail-oriented</p><p>· Must have at least 2 years of experience operating a sit-down Forklift</p><p>· Heavy lifting</p><p>· Overtime is mandatory when needed</p><br><br><strong>Benefits </strong><br><p><span style="color: rgb(34, 34, 34);">Onin believes that your health is important. Medical benefits should be affordable and easy to use with your busy schedule. That’s why we offer our teammates custom-built benefits that are affordable and convenient to use. When you’re a part of our team, you have will have affordable benefits you’ll actually want to use such as; $5 Prescription drug copays, $5 Doctor’s Visit copays, Free Teledoctor Service, Free Counseling Services, Life Insurance Included, Vision Insurance Included, Dental Insurance Included, Vacation and Holiday Pay and Scholarship Opportunities. You will get these amazing benefits and more after just 30 days.</span></p><br><br>]]></description>
+          <jobtype><![CDATA[External (Teammate)]]></jobtype>
+          <category><![CDATA[Warehouse & Logistics]]></category>
+          <subcategory><![CDATA[]]></subcategory>
+          <reqid><![CDATA[P-100076]]></reqid>
+          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
+          <expirationdate><![CDATA[]]></expirationdate>
+          <jobcode><![CDATA[]]></jobcode>
+          
+            <jobBoardId><![CDATA[ Gain]]></jobBoardId>
+          
+      </job>
+  
+      <job>
+          <title><![CDATA[Fiberglass Technician]]></title>
+          <date><![CDATA[12/30/2020]]></date>
+          <referencenumber><![CDATA[ONINGLOBALP-100778en_GLOBAL]]></referencenumber>
+          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100778en_GLOBAL/Fiberglass-Technician?utm_source=indeed&utm_medium=phenom-feeds]]></url>
+          <company><![CDATA[Onin]]></company>
+          <city><![CDATA[Joplin]]></city>
+          <state><![CDATA[Missouri]]></state>
+          <country><![CDATA[United States]]></country>
+          <postalcode><![CDATA[]]></postalcode>
+          <description><![CDATA[<strong>Job Requirements </strong><br><p><span style="color: rgb(5, 5, 5);">Work on production assembly line</span></p><p><span style="color: rgb(5, 5, 5);">Work with fiberglass material</span></p><br><br><strong>Work Experience </strong><br><p><span style="color: rgb(5, 5, 5);">Confident with simple mathematics</span></p><p><span style="color: rgb(5, 5, 5);">Experienced with assembly, basic hand tools and some power tools including drills, air tools, hacksaws, circular saws, table saws and band saws</span></p><p><span style="color: rgb(5, 5, 5);">Previous composites experience not required, but a plus</span></p><p><span style="color: rgb(5, 5, 5);">Involves the movement of heavy boxes from one location to another </span></p><p><span style="color: rgb(5, 5, 5);">Must be able to pass background and drug screen</span></p><br><br><strong>Benefits </strong><br><p><span style="color: rgb(34, 34, 34);">Onin believes that your health is important. Medical benefits should be affordable and easy to use with your busy schedule. That’s why we offer our teammates custom-built benefits that are affordable and convenient to use. When you’re a part of our team, you will have affordable benefits you’ll actually want to use such as; $5 Prescription drug copays, $5 Doctor’s Visit copays, Free Teledoctor Service, Free Counseling Services, Life Insurance Included, Vision Insurance Included, Dental Insurance Included, Vacation and Holiday Pay and Scholarship Opportunities. You will get these amazing benefits and more after just 30 days.</span></p><br><br>]]></description>
+          <jobtype><![CDATA[External (Teammate)]]></jobtype>
+          <category><![CDATA[Assembly & Manufacturing]]></category>
+          <subcategory><![CDATA[]]></subcategory>
+          <reqid><![CDATA[P-100778]]></reqid>
+          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
+          <expirationdate><![CDATA[2021-01-31T17:02:49.000Z]]></expirationdate>
+          <jobcode><![CDATA[]]></jobcode>
+          
+            <jobBoardId><![CDATA[ NEOS]]></jobBoardId>
+          
+      </job>
+  
+      <job>
+          <title><![CDATA[Material Handler ]]></title>
+          <date><![CDATA[12/30/2020]]></date>
+          <referencenumber><![CDATA[ONINGLOBALP-100762en_GLOBAL]]></referencenumber>
+          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100762en_GLOBAL/Material-Handler?utm_source=indeed&utm_medium=phenom-feeds]]></url>
+          <company><![CDATA[Onin]]></company>
+          <city><![CDATA[Grandview]]></city>
+          <state><![CDATA[Missouri]]></state>
+          <country><![CDATA[United States]]></country>
+          <postalcode><![CDATA[]]></postalcode>
+          <description><![CDATA[<strong>Job Requirements </strong><br><p>Onin Staffing is looking for people to work at a third party logistics firm in Grandview, Missouri. The job consists of working in teams unloading and loading trailers. You will use an RF Scan Gun and pallet jack as well as a forklift for heavier items. (No forklift experience required, the company will train and certify you) This can become a permanent assignment with advancement opportunities.</p><br><br><strong>Work Experience </strong><br><p>You must be willing to work on your feet all day long lifting, bending and kneeling</p><p>This is not a climate controlled warehouse - temperature fluctuates</p><p>You must wear steel toe boots/shoes for this assignment</p><br><br><strong>Benefits </strong><br><p>Great job for getting in shape for the new year</p><p>Medical, dental, vision and life insurance after 30 days</p><p>Great location, right off the highway</p><br/><br><br>]]></description>
+          <jobtype><![CDATA[External (Teammate)]]></jobtype>
+          <category><![CDATA[Warehouse & Logistics]]></category>
+          <subcategory><![CDATA[]]></subcategory>
+          <reqid><![CDATA[P-100762]]></reqid>
+          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
+          <expirationdate><![CDATA[]]></expirationdate>
+          <jobcode><![CDATA[]]></jobcode>
+          
+            <jobBoardId><![CDATA[ ]]></jobBoardId>
+          
+      </job>
+  
+      <job>
+          <title><![CDATA[Order Selector]]></title>
+          <date><![CDATA[12/30/2020]]></date>
+          <referencenumber><![CDATA[ONINGLOBALP-100785en_GLOBAL]]></referencenumber>
+          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100785en_GLOBAL/Order-Selector?utm_source=indeed&utm_medium=phenom-feeds]]></url>
+          <company><![CDATA[Onin]]></company>
+          <city><![CDATA[Oakwood]]></city>
+          <state><![CDATA[Georgia]]></state>
+          <country><![CDATA[United States]]></country>
+          <postalcode><![CDATA[]]></postalcode>
+          <description><![CDATA[<strong>Job Requirements </strong><br><p>Placing selected orders on pallets, wrapped, labeled, and moved pallets to loading dock area with an electric pallet Jack. Must ensure all quality standards are met while maintaining the efficient flow of product through the production process. </p><ul><li>	2nd shift, Sunday through Thursday- OVERTIME is included. </li><li>	<strong>$15 an hour</strong></li></ul><br><br><strong>Work Experience </strong><br><ul><li>Must be able to lift up to 50 pounds</li><li>Electric pallet Jack </li><li>Warehouse experience</li><li>Must be able to work the scheduled </li></ul><br/><br><br><strong>Benefits </strong><br><p>Onin believes that your health is important. Medical benefits should be affordable and easy to use with your busy schedule. That’s why we offer our teammates custom-built benefits that are affordable and convenient to use. When you’re a part of our team, you will have affordable benefits you’ll actually want to use such as; $5 Prescription drug copays, $5 Doctor’s Visit copays, Free Teledoctor Service, Free Counseling Services, Life Insurance Included, Vision Insurance Included, Dental Insurance Included, Vacation and Holiday Pay and Scholarship Opportunities. You will get these amazing benefits and more after just 30 days.</p><br><br>]]></description>
+          <jobtype><![CDATA[External (Teammate)]]></jobtype>
+          <category><![CDATA[Warehouse & Logistics]]></category>
+          <subcategory><![CDATA[]]></subcategory>
+          <reqid><![CDATA[P-100785]]></reqid>
           <indeed-apply-data><![CDATA[]]></indeed-apply-data>
           <expirationdate><![CDATA[]]></expirationdate>
           <jobcode><![CDATA[]]></jobcode>
@@ -6652,29 +6836,6 @@
       </job>
   
       <job>
-          <title><![CDATA[Reach Truck Operator]]></title>
-          <date><![CDATA[12/28/2020]]></date>
-          <referencenumber><![CDATA[ONINGLOBALP-100272en_GLOBAL]]></referencenumber>
-          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100272en_GLOBAL/Reach-Truck-Operator?utm_source=indeed&utm_medium=phenom-feeds]]></url>
-          <company><![CDATA[Onin]]></company>
-          <city><![CDATA[Coppell]]></city>
-          <state><![CDATA[Texas]]></state>
-          <country><![CDATA[United States]]></country>
-          <postalcode><![CDATA[]]></postalcode>
-          <description><![CDATA[<strong>Job Requirements </strong><br><p><strong style="color: rgb(0, 0, 0);">Reach Truck Operators </strong></p><p><strong style="color: rgb(0, 0, 0);">Multiple Shifts Available Include: FIRST / SECOND / THIRD<em>**Overtime Mandatory As Required**</em></strong></p><p><strong style="color: rgb(0, 0, 0);">Pay Rate: $14.50 - 16.50 / hr (depending on department)</strong></p><br/><p><strong style="color: rgb(0, 0, 0);">Our Opportunity:</strong></p><p><span style="color: rgb(0, 0, 0);">One of the world’s largest leading Supply Chain Operators has partnered with Ōnin Staffing to help fulfill their hiring goals.</span></p><br/><p><strong style="color: rgb(0, 0, 0);">What you'll do as a Reach Truck Operator:</strong></p><p><span style="color: rgb(0, 0, 0);">The Reach Truck Operator is responsible for operating equipment as part of the distribution process within a fast-paced warehouse setting. The Reach Truck Operator will utilize equipment while performing tasks to include shipping, receiving, unloading, scanning, moving, staging, loading, locating, relocating, and stacking product on forklift.</span></p><br/><p><strong style="color: rgb(0, 0, 0);">Primary Duties:</strong></p><ul><li><span style="color: rgb(0, 0, 0);">Reads production schedule, customer order, work order, shipping order, or requisition to determine items to be moved, gathered, and/or distributed</span></li><li><span style="color: rgb(0, 0, 0);">Pulls and prepares product for shipment, ensuring that the exact number and type of product is loaded</span></li><li><span style="color: rgb(0, 0, 0);">Sorts and places materials or items on racks, shelves, or in bins according to predetermined sequence such as size, type, style, color, or product code</span></li><li><span style="color: rgb(0, 0, 0);">Assembles customer orders from stock, stage orders and/or conveys orders to packing station or shipping department according to OH or customer pick sheet</span></li><li><span style="color: rgb(0, 0, 0);">Loads, unloads, moves, stacks and stages products and materials using a Reach Truck, forklift, clamp truck or other power equipment</span></li><li><span style="color: rgb(0, 0, 0);">Maintains equipment by keeping it clean and safe, reporting service requests as needed</span></li><li><span style="color: rgb(0, 0, 0);">Assists in maintaining the security of the warehouse by conducting operations in a manner which promotes safety</span></li><li><span style="color: rgb(0, 0, 0);">Marks materials with identifying information</span></li><li><span style="color: rgb(0, 0, 0);">Records amounts of materials or items received or distributed</span></li><li><span style="color: rgb(0, 0, 0);">Weighs or counts items for distribution within warehouse to ensure conformance to company standards</span></li><li><span style="color: rgb(0, 0, 0);">Efficiently moves and loads product from staging and/or storage areas into trailers</span></li><li><span style="color: rgb(0, 0, 0);">Unloads inbound freight safely and moves products to storage locations</span></li><li><span style="color: rgb(0, 0, 0);">Performs picking duties in an efficient manner that meets both company and customer standards</span></li><li><span style="color: rgb(0, 0, 0);">Assists with physical inventories and cycle counts, ensuring proper stock rotation</span></li><li><span style="color: rgb(0, 0, 0);">Assists in a distribution center/warehouse cleanup as required</span></li><li><span style="color: rgb(0, 0, 0);">Other duties as required and assigned by supervisor</span></li></ul><br><br><strong>Work Experience </strong><br><p><strong style="color: rgb(0, 0, 0);">Education and Experience:</strong></p><ul><li><span style="color: rgb(0, 0, 0);">High school education or GED (General Education Diploma) equivalency</span></li><li><span style="color: rgb(0, 0, 0);">1 to 2 years of experience and/or training in a warehouse environment</span></li><li><span style="color: rgb(0, 0, 0);">Experience using a minimum of 4 pieces of warehouse equipment</span></li><li><span style="color: rgb(0, 0, 0);">Exposure to Tier 1 or 2 warehouse management system or comparable system</span></li><li><strong style="color: rgb(0, 0, 0);">MUST have a <em>minimum of 6 months recent experience operating a Stand-up Reach Truck in a warehouse environment</em></strong></li><li><span style="color: rgb(0, 0, 0);">Previous certification is a plus, but not mandatory</span></li></ul><br/><p><strong style="color: rgb(0, 0, 0);">Essential Skills:</strong></p><ul><li><span style="color: rgb(0, 0, 0);">Ability to read and comprehend simple instructions, short correspondence, and memos</span></li><li><span style="color: rgb(0, 0, 0);">Ability to follow safety regulations while operating equipment</span></li><li><span style="color: rgb(0, 0, 0);">Ability to regularly lift up to 50 pounds</span></li><li><span style="color: rgb(0, 0, 0);">Ability to learn proper operations of warehouse equipment</span></li></ul><br/><p><strong style="color: rgb(0, 0, 0);">Environment:</strong></p><p><span style="color: rgb(0, 0, 0);">While performing the duties of this job the employee will be required to stand, walk, use hands and fingers, reach with hands and arms. This position may be required to stoop, kneel, or crouch as it relates to product handling and distribution, and must regularly lift and/or move up to 50 pounds. This position may occasionally lift more than 50 pounds. This position will be regularly exposed to moving mechanical parts and can be exposed to extreme heat and extreme cold including climates consistent with outside weather conditions.</span></p><br/><p><strong style="color: rgb(0, 0, 0);"><em>*Ability to pass a background check, drug screen, &amp; E-verify*</em></strong></p><br/><p style="text-align: center;"><strong style="color: rgb(0, 0, 0);"><em>﻿</em>We don't hire temps, we hire <em>TEAMMATES!</em></strong></p><p style="text-align: center;"><img src="https://static-im.phenompeople.com/CareerConnectResources/images/ONINGLOBAL/Joinourteam_1607985530222.png"></p><p style="text-align: center;"><strong style="color: rgb(0, 0, 0);">If this sounds like the right job for you, please apply online or in-person Monday - Friday from 8am to 5pm! </strong><span style="color: rgb(0, 0, 0);">Not for you, but someone you know? Share this job with them and then check out our other available jobs. No appointment necessary and guaranteed interviews! Each application submitted gets individually reviewed by our team and retained in case a great opportunity opens for you with any of our locations to join our Team. </span><strong style="color: rgb(0, 0, 0);">Don’t wait, we want YOU to be our next <em>Teammate!</em></strong></p><p style="text-align: center;"><br></p><p style="text-align: center;"><strong style="color: rgb(0, 0, 0);">Ōnin Staffing – Dallas/Farmers Branch</strong></p><p style="text-align: center;"><strong style="color: rgb(0, 0, 0);">2605 LBJ Frwy, Suite 100</strong></p><p style="text-align: center;"><strong style="color: rgb(0, 0, 0);">Dallas, TX 75234</strong></p><p style="text-align: center;"><strong style="color: rgb(0, 0, 0);">Ph: 972-484-8300 (call or text)</strong></p><p style="text-align: center;"><strong style="color: rgb(0, 0, 0);">Email: FARM@oninstaffing.com</strong></p><br><br><strong>Benefits </strong><br><p><span style="color: black;">Ōnin believes that your health is important. Medical benefits should be affordable and easy to use with your busy schedule. That's why we offer our teammates custom-built benefits that are affordable and convenient to use. When you're a part of our team, you will have affordable benefits you'll actually want to use such as; $5 Prescription drug copays, $5 Doctor's Visit copays, Free Teledoctor Service, Free Counseling Services, Life Insurance Included, Vision Insurance Included, Dental Insurance Included, Vacation and Holiday Pay and Scholarship Opportunities. You will get these amazing benefits and more after just 30 days.</span></p><br><br>]]></description>
-          <jobtype><![CDATA[External (Teammate)]]></jobtype>
-          <category><![CDATA[Warehouse & Logistics]]></category>
-          <subcategory><![CDATA[]]></subcategory>
-          <reqid><![CDATA[P-100272]]></reqid>
-          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
-          <expirationdate><![CDATA[2021-01-01T01:53:46.000Z]]></expirationdate>
-          <jobcode><![CDATA[]]></jobcode>
-          
-            <jobBoardId><![CDATA[ farm]]></jobBoardId>
-          
-      </job>
-  
-      <job>
           <title><![CDATA[Production Warehouse Associates]]></title>
           <date><![CDATA[12/29/2020]]></date>
           <referencenumber><![CDATA[ONINGLOBALP-100737en_GLOBAL]]></referencenumber>
@@ -6689,6 +6850,121 @@
           <category><![CDATA[Assembly & Manufacturing]]></category>
           <subcategory><![CDATA[]]></subcategory>
           <reqid><![CDATA[P-100737]]></reqid>
+          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
+          <expirationdate><![CDATA[]]></expirationdate>
+          <jobcode><![CDATA[]]></jobcode>
+          
+            <jobBoardId><![CDATA[ ]]></jobBoardId>
+          
+      </job>
+  
+      <job>
+          <title><![CDATA[Reach Truck Operator]]></title>
+          <date><![CDATA[12/30/2020]]></date>
+          <referencenumber><![CDATA[ONINGLOBALP-100272en_GLOBAL]]></referencenumber>
+          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100272en_GLOBAL/Reach-Truck-Operator?utm_source=indeed&utm_medium=phenom-feeds]]></url>
+          <company><![CDATA[Onin]]></company>
+          <city><![CDATA[Coppell]]></city>
+          <state><![CDATA[Texas]]></state>
+          <country><![CDATA[United States]]></country>
+          <postalcode><![CDATA[]]></postalcode>
+          <description><![CDATA[<strong>Job Requirements </strong><br><p><strong style="color: rgb(0, 0, 0);">Reach Truck Operators </strong></p><p><strong style="color: rgb(0, 0, 0);">Multiple Shifts Available Include: FIRST / SECOND / THIRD<em>**Overtime Mandatory As Required**</em></strong></p><p><strong style="color: rgb(0, 0, 0);">Pay Rate: $14.50 - 16.50 / hr (depending on department)</strong></p><br/><p><strong style="color: rgb(0, 0, 0);">Our Opportunity:</strong></p><p><span style="color: rgb(0, 0, 0);">One of the world’s largest leading Supply Chain Operators has partnered with Ōnin Staffing to help fulfill their hiring goals.</span></p><br/><p><strong style="color: rgb(0, 0, 0);">What you'll do as a Reach Truck Operator:</strong></p><p><span style="color: rgb(0, 0, 0);">The Reach Truck Operator is responsible for operating equipment as part of the distribution process within a fast-paced warehouse setting. The Reach Truck Operator will utilize equipment while performing tasks to include shipping, receiving, unloading, scanning, moving, staging, loading, locating, relocating, and stacking product on forklift.</span></p><br/><p><strong style="color: rgb(0, 0, 0);">Primary Duties:</strong></p><ul><li><span style="color: rgb(0, 0, 0);">Reads production schedule, customer order, work order, shipping order, or requisition to determine items to be moved, gathered, and/or distributed</span></li><li><span style="color: rgb(0, 0, 0);">Pulls and prepares product for shipment, ensuring that the exact number and type of product is loaded</span></li><li><span style="color: rgb(0, 0, 0);">Sorts and places materials or items on racks, shelves, or in bins according to predetermined sequence such as size, type, style, color, or product code</span></li><li><span style="color: rgb(0, 0, 0);">Assembles customer orders from stock, stage orders and/or conveys orders to packing station or shipping department according to OH or customer pick sheet</span></li><li><span style="color: rgb(0, 0, 0);">Loads, unloads, moves, stacks and stages products and materials using a Reach Truck, forklift, clamp truck or other power equipment</span></li><li><span style="color: rgb(0, 0, 0);">Maintains equipment by keeping it clean and safe, reporting service requests as needed</span></li><li><span style="color: rgb(0, 0, 0);">Assists in maintaining the security of the warehouse by conducting operations in a manner which promotes safety</span></li><li><span style="color: rgb(0, 0, 0);">Marks materials with identifying information</span></li><li><span style="color: rgb(0, 0, 0);">Records amounts of materials or items received or distributed</span></li><li><span style="color: rgb(0, 0, 0);">Weighs or counts items for distribution within warehouse to ensure conformance to company standards</span></li><li><span style="color: rgb(0, 0, 0);">Efficiently moves and loads product from staging and/or storage areas into trailers</span></li><li><span style="color: rgb(0, 0, 0);">Unloads inbound freight safely and moves products to storage locations</span></li><li><span style="color: rgb(0, 0, 0);">Performs picking duties in an efficient manner that meets both company and customer standards</span></li><li><span style="color: rgb(0, 0, 0);">Assists with physical inventories and cycle counts, ensuring proper stock rotation</span></li><li><span style="color: rgb(0, 0, 0);">Assists in a distribution center/warehouse cleanup as required</span></li><li><span style="color: rgb(0, 0, 0);">Other duties as required and assigned by supervisor</span></li></ul><br><br><strong>Work Experience </strong><br><p><strong style="color: rgb(0, 0, 0);">Education and Experience:</strong></p><ul><li><span style="color: rgb(0, 0, 0);">High school education or GED (General Education Diploma) equivalency</span></li><li><span style="color: rgb(0, 0, 0);">1 to 2 years of experience and/or training in a warehouse environment</span></li><li><span style="color: rgb(0, 0, 0);">Experience using a minimum of 4 pieces of warehouse equipment</span></li><li><span style="color: rgb(0, 0, 0);">Exposure to Tier 1 or 2 warehouse management system or comparable system</span></li><li><strong style="color: rgb(0, 0, 0);">MUST have a <em>minimum of 6 months recent experience operating a Stand-up Reach Truck in a warehouse environment</em></strong></li><li><span style="color: rgb(0, 0, 0);">Previous certification is a plus, but not mandatory</span></li></ul><br/><p><strong style="color: rgb(0, 0, 0);">Essential Skills:</strong></p><ul><li><span style="color: rgb(0, 0, 0);">Ability to read and comprehend simple instructions, short correspondence, and memos</span></li><li><span style="color: rgb(0, 0, 0);">Ability to follow safety regulations while operating equipment</span></li><li><span style="color: rgb(0, 0, 0);">Ability to regularly lift up to 50 pounds</span></li><li><span style="color: rgb(0, 0, 0);">Ability to learn proper operations of warehouse equipment</span></li></ul><br/><p><strong style="color: rgb(0, 0, 0);">Environment:</strong></p><p><span style="color: rgb(0, 0, 0);">While performing the duties of this job the employee will be required to stand, walk, use hands and fingers, reach with hands and arms. This position may be required to stoop, kneel, or crouch as it relates to product handling and distribution, and must regularly lift and/or move up to 50 pounds. This position may occasionally lift more than 50 pounds. This position will be regularly exposed to moving mechanical parts and can be exposed to extreme heat and extreme cold including climates consistent with outside weather conditions.</span></p><br/><p><strong style="color: rgb(0, 0, 0);"><em>*Ability to pass a background check, drug screen, &amp; E-verify*</em></strong></p><br/><p style="text-align: center;"><strong style="color: rgb(0, 0, 0);"><em>﻿</em>We don't hire temps, we hire <em>TEAMMATES!</em></strong></p><p style="text-align: center;"><img src="https://static-im.phenompeople.com/CareerConnectResources/images/ONINGLOBAL/Joinourteam_1607985530222.png"></p><p style="text-align: center;"><span style="color: rgb(0, 0, 0);">If this sounds like the right job for you, please apply online or in-person Monday - Friday from 8am to 5pm! Not for you, but someone you know? Share this job with them and then check out our other available jobs. No appointment necessary and guaranteed interviews! Each application submitted gets individually reviewed by our team and retained in case a great opportunity opens for you with any of our locations to join our Team. Don’t wait, we want YOU to be our next </span><em style="color: rgb(0, 0, 0);">Teammate!</em></p><p style="text-align: center;"><br></p><p style="text-align: center;"><strong style="color: rgb(0, 0, 0);">Ōnin Staffing – Dallas/Farmers Branch</strong></p><p style="text-align: center;"><strong style="color: rgb(0, 0, 0);">2605 LBJ Frwy, Suite 100</strong></p><p style="text-align: center;"><strong style="color: rgb(0, 0, 0);">Dallas, TX 75234</strong></p><p style="text-align: center;"><strong style="color: rgb(0, 0, 0);">Ph: 972-484-8300 (call or text)</strong></p><p style="text-align: center;"><strong style="color: rgb(0, 0, 0);">Email: FARM@oninstaffing.com</strong></p><br><br><strong>Benefits </strong><br><p><span style="color: black;">Ōnin believes that your health is important. Medical benefits should be affordable and easy to use with your busy schedule. That's why we offer our teammates custom-built benefits that are affordable and convenient to use. When you're a part of our team, you will have affordable benefits you'll actually want to use such as; $5 Prescription drug copays, $5 Doctor's Visit copays, Free Teledoctor Service, Free Counseling Services, Life Insurance Included, Vision Insurance Included, Dental Insurance Included, Vacation and Holiday Pay and Scholarship Opportunities. You will get these amazing benefits and more after just 30 days.</span></p><br><br>]]></description>
+          <jobtype><![CDATA[External (Teammate)]]></jobtype>
+          <category><![CDATA[Warehouse & Logistics]]></category>
+          <subcategory><![CDATA[]]></subcategory>
+          <reqid><![CDATA[P-100272]]></reqid>
+          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
+          <expirationdate><![CDATA[2021-01-01T01:53:46.000Z]]></expirationdate>
+          <jobcode><![CDATA[]]></jobcode>
+          
+            <jobBoardId><![CDATA[ farm]]></jobBoardId>
+          
+      </job>
+  
+      <job>
+          <title><![CDATA[Mold Maker]]></title>
+          <date><![CDATA[12/30/2020]]></date>
+          <referencenumber><![CDATA[ONINGLOBALP-100772en_GLOBAL]]></referencenumber>
+          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100772en_GLOBAL/Mold-Maker?utm_source=indeed&utm_medium=phenom-feeds]]></url>
+          <company><![CDATA[Onin]]></company>
+          <city><![CDATA[Miami]]></city>
+          <state><![CDATA[Oklahoma]]></state>
+          <country><![CDATA[United States]]></country>
+          <postalcode><![CDATA[]]></postalcode>
+          <description><![CDATA[<strong>Job Requirements </strong><br><p><span style="color: rgb(5, 5, 5);">* Testing product for quality</span></p><p><span style="color: rgb(5, 5, 5);">* Be a part of the blow molding process</span></p><br><br><strong>Work Experience </strong><br><p>** Attention to detail</p><p> ** Steel toe boots</p><p> ** Standing for long periods of time</p><p> ** Pass background and drug screen requirements</p><p> ** No minimum education required</p><br><br><strong>Benefits </strong><br><p><span style="color: rgb(34, 34, 34);">Onin believes that your health is important. Medical benefits should be affordable and easy to use with your busy schedule. That’s why we offer our teammates custom-built benefits that are affordable and convenient to use. When you’re a part of our team, you will have affordable benefits you’ll actually want to use such as; $5 Prescription drug copays, $5 Doctor’s Visit copays, Free Teledoctor Service, Free Counseling Services, Life Insurance Included, Vision Insurance Included, Dental Insurance Included, Vacation and Holiday Pay and Scholarship Opportunities. You will get these amazing benefits and more after just 30 days.</span></p><br><br>]]></description>
+          <jobtype><![CDATA[External (Teammate)]]></jobtype>
+          <category><![CDATA[Assembly & Manufacturing]]></category>
+          <subcategory><![CDATA[]]></subcategory>
+          <reqid><![CDATA[P-100772]]></reqid>
+          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
+          <expirationdate><![CDATA[]]></expirationdate>
+          <jobcode><![CDATA[]]></jobcode>
+          
+            <jobBoardId><![CDATA[ NEOS]]></jobBoardId>
+          
+      </job>
+  
+      <job>
+          <title><![CDATA[Warehouse Associate]]></title>
+          <date><![CDATA[12/30/2020]]></date>
+          <referencenumber><![CDATA[ONINGLOBALP-100775en_GLOBAL]]></referencenumber>
+          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100775en_GLOBAL/Warehouse-Associate?utm_source=indeed&utm_medium=phenom-feeds]]></url>
+          <company><![CDATA[Onin]]></company>
+          <city><![CDATA[Neosho]]></city>
+          <state><![CDATA[Missouri]]></state>
+          <country><![CDATA[United States]]></country>
+          <postalcode><![CDATA[]]></postalcode>
+          <description><![CDATA[<strong>Job Requirements </strong><br><p><span style="color: rgb(5, 5, 5);">* Following daily schedules and work orders; setting up mixes </span></p><p><span style="color: rgb(5, 5, 5);">* Scanning bags of ingredients to ensure proper inventory levels </span></p><p><span style="color: rgb(5, 5, 5);">* Gathering and weighing pre-determined amounts of specific ingredients</span></p><p><span style="color: rgb(5, 5, 5);">* Fill ingredients into proper containers</span></p><p><span style="color: rgb(5, 5, 5);">* Measuring and feeding batches of ingredients into production machinery </span></p><p><span style="color: rgb(5, 5, 5);">* Packaging finish products and entering data into internal system</span></p><p><span style="color: rgb(5, 5, 5);">* Gathering and stacking bags in proper patterns for shipments</span></p><br><br><strong>Work Experience </strong><br><p><span style="color: rgb(5, 5, 5);">* Steel toe boots</span></p><p><span style="color: rgb(5, 5, 5);">* High School Diploma or GED</span></p><p><span style="color: rgb(5, 5, 5);">* Basic math calculation and computer skills</span></p><p><span style="color: rgb(5, 5, 5);">* Attention to detail</span></p><p><span style="color: rgb(5, 5, 5);">* Ability to follow instruction</span></p><p><span style="color: rgb(5, 5, 5);">* Involves the movement of heavy boxes from one location to another </span></p><p><span style="color: rgb(5, 5, 5);">* Must be able to pass background and drug screen</span></p><br><br><strong>Benefits </strong><br><p><span style="color: rgb(34, 34, 34);">Onin believes that your health is important. Medical benefits should be affordable and easy to use with your busy schedule. That’s why we offer our teammates custom-built benefits that are affordable and convenient to use. When you’re a part of our team, you will have affordable benefits you’ll actually want to use such as; $5 Prescription drug copays, $5 Doctor’s Visit copays, Free Teledoctor Service, Free Counseling Services, Life Insurance Included, Vision Insurance Included, Dental Insurance Included, Vacation and Holiday Pay and Scholarship Opportunities. You will get these amazing benefits and more after just 30 days.</span></p><br><br>]]></description>
+          <jobtype><![CDATA[External (Teammate)]]></jobtype>
+          <category><![CDATA[Warehouse & Logistics]]></category>
+          <subcategory><![CDATA[]]></subcategory>
+          <reqid><![CDATA[P-100775]]></reqid>
+          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
+          <expirationdate><![CDATA[]]></expirationdate>
+          <jobcode><![CDATA[]]></jobcode>
+          
+            <jobBoardId><![CDATA[ NEOS]]></jobBoardId>
+          
+      </job>
+  
+      <job>
+          <title><![CDATA[Entry Level Warehouse]]></title>
+          <date><![CDATA[12/30/2020]]></date>
+          <referencenumber><![CDATA[ONINGLOBALP-100780en_GLOBAL]]></referencenumber>
+          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100780en_GLOBAL/Entry-Level-Warehouse?utm_source=indeed&utm_medium=phenom-feeds]]></url>
+          <company><![CDATA[Onin]]></company>
+          <city><![CDATA[Neosho]]></city>
+          <state><![CDATA[Missouri]]></state>
+          <country><![CDATA[United States]]></country>
+          <postalcode><![CDATA[]]></postalcode>
+          <description><![CDATA[<strong>Job Requirements </strong><br><p><span style="color: rgb(5, 5, 5);">* Flexible, be moved in different departments based on production needs</span></p><p><span style="color: rgb(5, 5, 5);">* Bagging product,</span></p><p><span style="color: rgb(5, 5, 5);">*Placing product off the conveyor onto the pallet. Must be placed by company standards.</span></p><br><br><strong>Work Experience </strong><br><p><span style="color: rgb(0, 0, 0);">* Attention to detail</span></p><p><span style="color: rgb(0, 0, 0);"> * Ability to follow instruction</span></p><p><span style="color: rgb(0, 0, 0);"> * Be able to lift up to 70 pounds repetitively</span></p><p><span style="color: rgb(0, 0, 0);"> * Must be able to pass background and drug screen</span></p><br><br><strong>Benefits </strong><br><p>Onin believes that your health is important. Medical benefits should be affordable and easy to use with your busy schedule. That’s why we offer our teammates custom-built benefits that are affordable and convenient to use. When you’re a part of our team, you will have affordable benefits you’ll actually want to use such as; $5 Prescription drug copays, $5 Doctor’s Visit copays, Free Teledoctor Service, Free Counseling Services, Life Insurance Included, Vision Insurance Included, Dental Insurance Included, Vacation and Holiday Pay and Scholarship Opportunities. You will get these amazing benefits and more after just 30 days.</p><br><br>]]></description>
+          <jobtype><![CDATA[External (Teammate)]]></jobtype>
+          <category><![CDATA[Warehouse & Logistics]]></category>
+          <subcategory><![CDATA[]]></subcategory>
+          <reqid><![CDATA[P-100780]]></reqid>
+          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
+          <expirationdate><![CDATA[]]></expirationdate>
+          <jobcode><![CDATA[]]></jobcode>
+          
+            <jobBoardId><![CDATA[ NEOS]]></jobBoardId>
+          
+      </job>
+  
+      <job>
+          <title><![CDATA[Order Picker]]></title>
+          <date><![CDATA[12/30/2020]]></date>
+          <referencenumber><![CDATA[ONINGLOBALP-100545en_GLOBAL]]></referencenumber>
+          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100545en_GLOBAL/Order-Picker?utm_source=indeed&utm_medium=phenom-feeds]]></url>
+          <company><![CDATA[Onin]]></company>
+          <city><![CDATA[Kansas City]]></city>
+          <state><![CDATA[Missouri]]></state>
+          <country><![CDATA[United States]]></country>
+          <postalcode><![CDATA[]]></postalcode>
+          <description><![CDATA[<strong>Job Requirements </strong><br><p style="text-align: justify;"><span style="color: rgb(0, 0, 0); background-color: transparent;">Review and check out-bound customer orders for pulling accuracy.</span></p><p style="text-align: justify;"><span style="color: rgb(0, 0, 0); background-color: transparent;">Insure safe packing of the orders for shipment to customers, without damage to the products.</span></p><p style="text-align: justify;"><span style="color: rgb(0, 0, 0); background-color: transparent;">Insure proper labeling of shipped packages.</span></p><p style="text-align: justify;"><span style="color: rgb(0, 0, 0); background-color: transparent;">Adhere to all USAX Packaging Guidelines</span></p><p style="text-align: justify;"><span style="color: rgb(0, 0, 0); background-color: transparent;">Office products are identified by numerical and/or alpha-numeric sequence in each specific product line, thus ability to identify sequence of numbers and letters accurately and rapidly is essential.</span></p><p style="text-align: justify;"><span style="color: rgb(0, 0, 0); background-color: transparent;">Requires understanding of manufacturer packaging, units of measure and product location.</span></p><p style="text-align: justify;"><span style="color: rgb(0, 0, 0); background-color: transparent;">Adherence to the Stockroom Housekeeping Policy of facility and specific product line area is required.</span></p><p style="text-align: justify;"><span style="color: rgb(0, 0, 0); background-color: transparent;">Follow and adhere to all safety rules including the handling of hazardous materials.</span></p><br><br><strong>Work Experience </strong><br><p style="text-align: justify;"><span style="color: rgb(0, 0, 0); background-color: transparent;">Communication</span></p><p style="text-align: justify;"><span style="color: rgb(0, 0, 0); background-color: transparent;">Customer Focus</span></p><p style="text-align: justify;"><span style="color: rgb(0, 0, 0); background-color: transparent;">Decision Making/Judgment</span></p><p style="text-align: justify;"><span style="color: rgb(0, 0, 0); background-color: transparent;">Delivers Results</span></p><p style="text-align: justify;"><span style="color: rgb(0, 0, 0); background-color: transparent;">Dependability</span></p><p style="text-align: justify;"><span style="color: rgb(0, 0, 0); background-color: transparent;">Job Knowledge</span></p><p style="text-align: justify;"><span style="color: rgb(0, 0, 0); background-color: transparent;">Teamwork</span></p><br/><br><br><strong>Benefits </strong><br><p>Weekly Pay</p><p>Benefits after 30 days - Health, Dental, Vision and Life Insurance</p><p>Free Teladoc Service</p><p>Vacation and Holiday Pay</p><br><br>]]></description>
+          <jobtype><![CDATA[External (Teammate)]]></jobtype>
+          <category><![CDATA[Warehouse & Logistics]]></category>
+          <subcategory><![CDATA[]]></subcategory>
+          <reqid><![CDATA[P-100545]]></reqid>
           <indeed-apply-data><![CDATA[]]></indeed-apply-data>
           <expirationdate><![CDATA[]]></expirationdate>
           <jobcode><![CDATA[]]></jobcode>
@@ -7457,29 +7733,6 @@
       </job>
   
       <job>
-          <title><![CDATA[General Labor]]></title>
-          <date><![CDATA[12/29/2020]]></date>
-          <referencenumber><![CDATA[ONINGLOBALP-100614en_GLOBAL]]></referencenumber>
-          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100614en_GLOBAL/General-Labor?utm_source=indeed&utm_medium=phenom-feeds]]></url>
-          <company><![CDATA[Onin]]></company>
-          <city><![CDATA[Mansfield]]></city>
-          <state><![CDATA[Texas]]></state>
-          <country><![CDATA[United States]]></country>
-          <postalcode><![CDATA[]]></postalcode>
-          <description><![CDATA[<strong>Job Requirements </strong><br><p>You will be fabricating the parts and materials used to build bridges around North America. You will also create the forms and metal pieces at the site then ship them out to wherever the bridge is being built.</p><br><br><strong>Work Experience </strong><br><p>Need to be handy with machinery, able to read/understand instruction, and take directions from supervisor. Steel toe boots required and some heavy lifting.</p><br><br><strong>Benefits </strong><br><p>After 30 days of working with Onin you are enrolled in our benefits. You only pay $17.82 per pay check and the co pay is only $5.00. You will be enrolled in Dental, Vision, and Medical. We also offer a service called Teledoctor. You can call or video chat with a Dr. (free of charge), explain your symptoms, and if needed he can prescribe you something over the phone.</p><br><br>]]></description>
-          <jobtype><![CDATA[External (Teammate)]]></jobtype>
-          <category><![CDATA[Warehouse & Logistics]]></category>
-          <subcategory><![CDATA[]]></subcategory>
-          <reqid><![CDATA[P-100614]]></reqid>
-          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
-          <expirationdate><![CDATA[]]></expirationdate>
-          <jobcode><![CDATA[]]></jobcode>
-          
-            <jobBoardId><![CDATA[ ]]></jobBoardId>
-          
-      </job>
-  
-      <job>
           <title><![CDATA[Machine Operator]]></title>
           <date><![CDATA[12/16/2020]]></date>
           <referencenumber><![CDATA[ONINGLOBALP-100108en_GLOBAL]]></referencenumber>
@@ -7871,29 +8124,6 @@
       </job>
   
       <job>
-          <title><![CDATA[Production Assembly Worker]]></title>
-          <date><![CDATA[12/24/2020]]></date>
-          <referencenumber><![CDATA[ONINGLOBALP-100669en_GLOBAL]]></referencenumber>
-          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100669en_GLOBAL/Production-Assembly-Worker?utm_source=indeed&utm_medium=phenom-feeds]]></url>
-          <company><![CDATA[Onin]]></company>
-          <city><![CDATA[Vance]]></city>
-          <state><![CDATA[Alabama]]></state>
-          <country><![CDATA[United States]]></country>
-          <postalcode><![CDATA[]]></postalcode>
-          <description><![CDATA[<strong>Job Requirements </strong><br><p><strong style="color: rgb(67, 81, 92);">Operations Team Members (Production Workers) needed for Mercedes-Benz Assembly Plant in Vance, AL. Great pay and benefits are available. Pay range is from $15.50-$16.28/HR. 1st shift 6am-3pm and 2nd shift 6pm-3am. Must be able to work rotating shifts. Please review the purpose, responsibilities, and qualifications listed below prior to applying:</strong></p><br/><p><strong style="color: rgb(67, 81, 92);">Purpose: </strong><span style="color: rgb(67, 81, 92);">To assemble, paint, monitor quality, or perform production support for all vehicle production</span></p><br/><p><strong style="color: rgb(67, 81, 92);">Responsibilities:</strong></p><ul><li><span style="color: rgb(67, 81, 92);">Positions and fastens together body sub-assemblies, such as side frames, under-bodies, doors, hoods, and trunk lids, to assemble vehicle bodies preparatory to the welding process</span></li><li><span style="color: rgb(67, 81, 92);">Installs mechanical and electrical components and systems, such as an engine, transmission, and axle units, pumps, wire harnesses, instrument control panels, and exhaust, brake, and air-conditioning systems</span></li><li><span style="color: rgb(67, 81, 92);">Paints the vehicle utilizing paint spray equipment</span></li><li><span style="color: rgb(67, 81, 92);">Works as a member of the Production Team and be assigned different work situations as production or other needs require</span></li></ul><br><br><strong>Work Experience </strong><br><p><span style="color: rgb(67, 81, 92);">High School Diploma or equivalent</span></p><ul><li>Ability to work at an accelerated pace while meeting production needs and quality levels</li><li>Ability to maintain good communication skills</li><li>Ability to maintain constant awareness of safety issues</li><li>Strong work ethic</li><li>Must be reliable and dependable</li><li>Must be flexible and available for all shifts including rotating shifts</li><li>Must be able to perform a minimum of four assignments within a job</li></ul><br><br><strong>Benefits </strong><br><p><strong style="color: rgb(67, 81, 92);">Benefits available after 30 days: Health, Dental, Vision, and Life Insurance ($5 copays, $5 Prescription Drugs, Free Teledoctor service, Free Counseling Services).</strong></p><p><strong style="color: rgb(67, 81, 92);">Additional Benefits: Vacation, Holiday Pay, and Sick time.</strong></p><p><strong style="color: rgb(67, 81, 92);">Pay Rate: $15.50 for 1st shift &amp; $16.28 for the 2nd shift. Working Rotating Shifts.</strong></p><p><strong style="color: rgb(67, 81, 92);">Hours: 1st shift (6am – 3pm), 2ND shift (6pm -3am)</strong></p><br/><p><strong style="color: rgb(67, 81, 92);">Effective January 4, 2021. We will be introducing Wage Increase &amp; Progression Pay.</strong></p><p><strong style="color: rgb(67, 81, 92);">Starting Wage: $16.50 for 1st shift &amp; $17.33 for 2nd shift.</strong></p><p><strong style="color: rgb(67, 81, 92);">Topping out at $17.50 for 1st shift &amp; $18.38 for 2nd shift.</strong></p><br><br>]]></description>
-          <jobtype><![CDATA[External (Teammate)]]></jobtype>
-          <category><![CDATA[Assembly & Manufacturing]]></category>
-          <subcategory><![CDATA[]]></subcategory>
-          <reqid><![CDATA[P-100669]]></reqid>
-          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
-          <expirationdate><![CDATA[2021-01-01T22:33:21.000Z]]></expirationdate>
-          <jobcode><![CDATA[]]></jobcode>
-          
-            <jobBoardId><![CDATA[ BESS]]></jobBoardId>
-          
-      </job>
-  
-      <job>
           <title><![CDATA[Warehouse Associate  ]]></title>
           <date><![CDATA[12/24/2020]]></date>
           <referencenumber><![CDATA[ONINGLOBALP-100619en_GLOBAL]]></referencenumber>
@@ -7982,6 +8212,52 @@
           <jobcode><![CDATA[]]></jobcode>
           
             <jobBoardId><![CDATA[ Chat]]></jobBoardId>
+          
+      </job>
+  
+      <job>
+          <title><![CDATA[Production Assembly Worker]]></title>
+          <date><![CDATA[12/30/2020]]></date>
+          <referencenumber><![CDATA[ONINGLOBALP-100669en_GLOBAL]]></referencenumber>
+          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100669en_GLOBAL/Production-Assembly-Worker?utm_source=indeed&utm_medium=phenom-feeds]]></url>
+          <company><![CDATA[Onin]]></company>
+          <city><![CDATA[Vance]]></city>
+          <state><![CDATA[Alabama]]></state>
+          <country><![CDATA[United States]]></country>
+          <postalcode><![CDATA[]]></postalcode>
+          <description><![CDATA[<strong>Job Requirements </strong><br><p><strong style="color: rgb(67, 81, 92);">Operations Team Members (Production Workers) needed for Mercedes-Benz Assembly Plant in Vance, AL. Great pay and benefits are available. Pay range is from $16.50 - $17.33/HR. 1st shift 6am-3pm and 2nd shift 6pm-3am. Must be able to work rotating shifts. Please review the purpose, responsibilities, and qualifications listed below prior to applying:</strong></p><br/><p><strong style="color: rgb(67, 81, 92);">Purpose: </strong><span style="color: rgb(67, 81, 92);">To assemble, paint, monitor quality, or perform production support for all vehicle production</span></p><br/><p><strong style="color: rgb(67, 81, 92);">Responsibilities:</strong></p><ul><li><span style="color: rgb(67, 81, 92);">Positions and fastens together body sub-assemblies, such as side frames, under-bodies, doors, hoods, and trunk lids, to assemble vehicle bodies preparatory to the welding process</span></li><li><span style="color: rgb(67, 81, 92);">Installs mechanical and electrical components and systems, such as an engine, transmission, and axle units, pumps, wire harnesses, instrument control panels, and exhaust, brake, and air-conditioning systems</span></li><li><span style="color: rgb(67, 81, 92);">Paints the vehicle utilizing paint spray equipment</span></li><li><span style="color: rgb(67, 81, 92);">Works as a member of the Production Team and be assigned different work situations as production or other needs require</span></li></ul><br><br><strong>Work Experience </strong><br><p><span style="color: rgb(67, 81, 92);">High School Diploma or equivalent</span></p><ul><li>Ability to work at an accelerated pace while meeting production needs and quality levels</li><li>Ability to maintain good communication skills</li><li>Ability to maintain constant awareness of safety issues</li><li>Strong work ethic</li><li>Must be reliable and dependable</li><li>Must be flexible and available for all shifts including rotating shifts</li><li>Must be able to perform a minimum of four assignments within a job</li></ul><br><br><strong>Benefits </strong><br><p><strong style="color: rgb(67, 81, 92);">Benefits available after 30 days: Health, Dental, Vision, and Life Insurance ($5 copays, $5 Prescription Drugs, Free Teledoctor service, Free Counseling Services).</strong></p><p><strong style="color: rgb(67, 81, 92);">Additional Benefits: Vacation, Holiday Pay, and Sick time.</strong></p><p><strong style="color: rgb(67, 81, 92);">Pay Rate: $16.50 for 1st shift &amp; $17.33 for the 2nd shift. Working Rotating Shifts.</strong></p><p><strong style="color: rgb(67, 81, 92);">Progression Pay: Topping out at $17.50 for 1st shift &amp; $18.38 for 2nd shift.</strong></p><p><strong style="color: rgb(67, 81, 92);">Hours: 1st shift (6am – 3pm), 2ND shift (6pm -3am)</strong></p><br/><br><br>]]></description>
+          <jobtype><![CDATA[External (Teammate)]]></jobtype>
+          <category><![CDATA[Assembly & Manufacturing]]></category>
+          <subcategory><![CDATA[]]></subcategory>
+          <reqid><![CDATA[P-100669]]></reqid>
+          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
+          <expirationdate><![CDATA[2021-01-03T16:17:05.000Z]]></expirationdate>
+          <jobcode><![CDATA[]]></jobcode>
+          
+            <jobBoardId><![CDATA[ BESS]]></jobBoardId>
+          
+      </job>
+  
+      <job>
+          <title><![CDATA[General Labor]]></title>
+          <date><![CDATA[12/30/2020]]></date>
+          <referencenumber><![CDATA[ONINGLOBALP-100614en_GLOBAL]]></referencenumber>
+          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100614en_GLOBAL/General-Labor?utm_source=indeed&utm_medium=phenom-feeds]]></url>
+          <company><![CDATA[Onin]]></company>
+          <city><![CDATA[Mansfield]]></city>
+          <state><![CDATA[Texas]]></state>
+          <country><![CDATA[United States]]></country>
+          <postalcode><![CDATA[]]></postalcode>
+          <description><![CDATA[<strong>Job Requirements </strong><br><p>You will be fabricating the parts and materials used to build bridges around North America. You will also create the forms and metal pieces at the site then ship them out to wherever the bridge is being built.</p><br><br><strong>Work Experience </strong><br><p>Need to be handy with machinery, able to read/understand instruction, and take directions from supervisor. Steel toe boots required and some heavy lifting.</p><br><br><strong>Benefits </strong><br><p>After 30 days of working with Onin you are enrolled in our benefits. You only pay $17.82 per pay check and the co pay is only $5.00. You will be enrolled in Dental, Vision, and Medical. We also offer a service called Teledoctor. You can call or video chat with a Dr. (free of charge), explain your symptoms, and if needed he can prescribe you something over the phone.</p><br><br>]]></description>
+          <jobtype><![CDATA[External (Teammate)]]></jobtype>
+          <category><![CDATA[Warehouse & Logistics]]></category>
+          <subcategory><![CDATA[]]></subcategory>
+          <reqid><![CDATA[P-100614]]></reqid>
+          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
+          <expirationdate><![CDATA[2021-01-29T17:30:13.000Z]]></expirationdate>
+          <jobcode><![CDATA[]]></jobcode>
+          
+            <jobBoardId><![CDATA[ ARLI]]></jobBoardId>
           
       </job>
   
@@ -8745,29 +9021,6 @@
       </job>
   
       <job>
-          <title><![CDATA[Machine Operator ]]></title>
-          <date><![CDATA[12/29/2020]]></date>
-          <referencenumber><![CDATA[ONINGLOBALP-100615en_GLOBAL]]></referencenumber>
-          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100615en_GLOBAL/Machine-Operator?utm_source=indeed&utm_medium=phenom-feeds]]></url>
-          <company><![CDATA[Onin]]></company>
-          <city><![CDATA[Grand Prairie]]></city>
-          <state><![CDATA[Texas]]></state>
-          <country><![CDATA[United States]]></country>
-          <postalcode><![CDATA[]]></postalcode>
-          <description><![CDATA[<strong>Job Requirements </strong><br><p>Must be able to lift more than 30 pounds. Ability to work on your feet for long hours while moving objects. Must pay close attention to details and follow instructions.</p><br><br><strong>Work Experience </strong><br><p>Machine Operator</p><br><br><strong>Benefits </strong><br><p>After 30 days of working with Onin you are enrolled in our benefits. You only pay $17.82 per pay check and the co pay is only $5.00. You will be enrolled in Dental, Vision, and Medical. We also offer a service called Teledoctor. You can call or video chat with a Dr. (free of charge), explain your symptoms, and if needed he can prescribe you something over the phone.</p><br><br>]]></description>
-          <jobtype><![CDATA[External (Teammate)]]></jobtype>
-          <category><![CDATA[Warehouse & Logistics]]></category>
-          <subcategory><![CDATA[]]></subcategory>
-          <reqid><![CDATA[P-100615]]></reqid>
-          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
-          <expirationdate><![CDATA[]]></expirationdate>
-          <jobcode><![CDATA[]]></jobcode>
-          
-            <jobBoardId><![CDATA[ ]]></jobBoardId>
-          
-      </job>
-  
-      <job>
           <title><![CDATA[Manufacturing Associate]]></title>
           <date><![CDATA[12/28/2020]]></date>
           <referencenumber><![CDATA[ONINGLOBALP-100636en_GLOBAL]]></referencenumber>
@@ -8856,6 +9109,29 @@
           <jobcode><![CDATA[]]></jobcode>
           
             <jobBoardId><![CDATA[ ]]></jobBoardId>
+          
+      </job>
+  
+      <job>
+          <title><![CDATA[Machine Operator ]]></title>
+          <date><![CDATA[12/30/2020]]></date>
+          <referencenumber><![CDATA[ONINGLOBALP-100615en_GLOBAL]]></referencenumber>
+          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100615en_GLOBAL/Machine-Operator?utm_source=indeed&utm_medium=phenom-feeds]]></url>
+          <company><![CDATA[Onin]]></company>
+          <city><![CDATA[Grand Prairie]]></city>
+          <state><![CDATA[Texas]]></state>
+          <country><![CDATA[United States]]></country>
+          <postalcode><![CDATA[]]></postalcode>
+          <description><![CDATA[<strong>Job Requirements </strong><br><p>Must be able to lift more than 30 pounds. Ability to work on your feet for long hours while moving objects. Must pay close attention to details and follow instructions.</p><br><br><strong>Work Experience </strong><br><p>Machine Operator</p><br><br><strong>Benefits </strong><br><p>After 30 days of working with Onin you are enrolled in our benefits. You only pay $17.82 per pay check and the co pay is only $5.00. You will be enrolled in Dental, Vision, and Medical. We also offer a service called Teledoctor. You can call or video chat with a Dr. (free of charge), explain your symptoms, and if needed he can prescribe you something over the phone.</p><br><br>]]></description>
+          <jobtype><![CDATA[External (Teammate)]]></jobtype>
+          <category><![CDATA[Warehouse & Logistics]]></category>
+          <subcategory><![CDATA[]]></subcategory>
+          <reqid><![CDATA[P-100615]]></reqid>
+          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
+          <expirationdate><![CDATA[2021-01-29T17:28:55.000Z]]></expirationdate>
+          <jobcode><![CDATA[]]></jobcode>
+          
+            <jobBoardId><![CDATA[ ARLI]]></jobBoardId>
           
       </job>
   
@@ -9431,6 +9707,75 @@
           <jobcode><![CDATA[]]></jobcode>
           
             <jobBoardId><![CDATA[ CHAT]]></jobBoardId>
+          
+      </job>
+  
+      <job>
+          <title><![CDATA[Estimator Assistant  ]]></title>
+          <date><![CDATA[12/30/2020]]></date>
+          <referencenumber><![CDATA[ONINGLOBALP-100774en_GLOBAL]]></referencenumber>
+          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100774en_GLOBAL/Estimator-Assistant?utm_source=indeed&utm_medium=phenom-feeds]]></url>
+          <company><![CDATA[Onin]]></company>
+          <city><![CDATA[Meridian]]></city>
+          <state><![CDATA[Mississippi]]></state>
+          <country><![CDATA[United States]]></country>
+          <postalcode><![CDATA[]]></postalcode>
+          <description><![CDATA[<strong>Job Requirements </strong><br><p>Develop new and maintain existing customer relationships in the&nbsp;steel fabrication&nbsp;industry with general contractors, subcontractors, suppliers and vendors</p><p>Download bid documents, read and interpret job bid information,&nbsp;blueprints</p><p>and detailed specifications</p><p>Prepare or review take off of materials to be included in</p><p>project, estimate necessary labor, detailing, buyout items, freight, etc. to</p><p>prepare accurate price estimate</p><p>Prepare price estimate for requested change orders on existing</p><p>contracts</p><p>Submit bids to customers,&nbsp;negotiate&nbsp;and complete sales process</p><p>to obtain work</p><p>Participate in pre-bid meetings and or site visits as required</p><p>Salary is based on Experience. Please contact Onin Staffing</p><p>Click the link below to schedule an interview</p><p>https://calendly.com/fore-1/15min</p><p><strong style="font-size: 18px;"><em>Preferred:</em></strong></p><p>General knowledge of&nbsp;AWS&nbsp;D1.1&nbsp;welding&nbsp;and AISC Steel codes</p><p>Understanding of&nbsp;steel fabrication&nbsp;process</p><p>10 + years of experience in steel&nbsp;construction&nbsp;industry</p><p>Good&nbsp;writing&nbsp;and&nbsp;verbal communication skills</p><p>Experience working with&nbsp;Excel</p><p>Computerized&nbsp;estimating&nbsp;experience</p><p><strong style="font-size: 18px;"><em>Benefits:</em></strong></p><p>Competitive health, dental and vision insurance</p><p>Job Type: Full-time</p><p>Pay is based off of experience</p><p>Pay: $17.00 - $25.00 per hour</p><br/><br/><p><strong style="font-size: 18px;">Work Experience</strong></p><p>Estimate experience, be able to read blue prints, interpret bid information</p><br/><br><br>]]></description>
+          <jobtype><![CDATA[External (Teammate)]]></jobtype>
+          <category><![CDATA[Skilled Labor]]></category>
+          <subcategory><![CDATA[]]></subcategory>
+          <reqid><![CDATA[P-100774]]></reqid>
+          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
+          <expirationdate><![CDATA[2021-01-06T16:46:36.000Z]]></expirationdate>
+          <jobcode><![CDATA[]]></jobcode>
+          
+            <jobBoardId><![CDATA[ FORE]]></jobBoardId>
+          
+      </job>
+  
+      <job>
+          <title><![CDATA[HR Position]]></title>
+          <date><![CDATA[12/30/2020]]></date>
+          <referencenumber><![CDATA[ONINGLOBALP-100781en_GLOBAL]]></referencenumber>
+          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100781en_GLOBAL/HR-Position?utm_source=indeed&utm_medium=phenom-feeds]]></url>
+          <company><![CDATA[Onin]]></company>
+          <city><![CDATA[Bay Springs]]></city>
+          <state><![CDATA[Mississippi]]></state>
+          <country><![CDATA[United States]]></country>
+          <postalcode><![CDATA[]]></postalcode>
+          <description><![CDATA[<strong>Job Requirements </strong><br><p>Onin Staffing is currently hiring for an Live Haul Clerk position. Must have good&nbsp;clerical skills&nbsp;and be fluent in&nbsp;Microsoft excel.</p><p>Responsibilities may include:</p><ul><li>Maintaining employee records</li><li>Presenting benefits packages</li><li>Interviewing new employees, checking references and&nbsp;organizing&nbsp;background checks</li><li>Providing policy&nbsp;training</li></ul><p>Must have&nbsp;Excel&nbsp;experience.</p><p>Pay: $12.00 to $14.00 per hour.</p><p>Job Type: Full-time</p><br/><p><strong style="font-size: 18px;">Work Experience</strong></p><p>Must have&nbsp;clerical skills, fluent in&nbsp;Microsoft Excel</p><br/><p><strong style="font-size: 18px;">Benefits</strong></p><p>Medical , Dental , and Vision insurance available</p><br><br>]]></description>
+          <jobtype><![CDATA[External (Teammate)]]></jobtype>
+          <category><![CDATA[Office & Administration]]></category>
+          <subcategory><![CDATA[]]></subcategory>
+          <reqid><![CDATA[P-100781]]></reqid>
+          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
+          <expirationdate><![CDATA[2021-01-06T17:14:27.000Z]]></expirationdate>
+          <jobcode><![CDATA[]]></jobcode>
+          
+            <jobBoardId><![CDATA[ FORE]]></jobBoardId>
+          
+      </job>
+  
+      <job>
+          <title><![CDATA[Metal Grinder]]></title>
+          <date><![CDATA[12/30/2020]]></date>
+          <referencenumber><![CDATA[ONINGLOBALP-100784en_GLOBAL]]></referencenumber>
+          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100784en_GLOBAL/Metal-Grinder?utm_source=indeed&utm_medium=phenom-feeds]]></url>
+          <company><![CDATA[Onin]]></company>
+          <city><![CDATA[Meridian]]></city>
+          <state><![CDATA[Mississippi]]></state>
+          <country><![CDATA[United States]]></country>
+          <postalcode><![CDATA[]]></postalcode>
+          <description><![CDATA[<strong>Job Requirements </strong><br><p>Onin Staffing is currently hiring for Grinders in the Meridian Area:</p><p>Job Summary</p><p>Do you have a strong attention to detail and a desire to ensure products retain the highest quality standards? If so, become a valuable member of our team as a grinder, inspecting products as they come out of the machinery, removing any defective pieces and providing the finishing touches on the rest by hand. You will use your profound knowledge of how the machinery works to ensure that it remains functional by performing&nbsp;routine maintenance, cleaning and&nbsp;repairs. Your problem-solving skills will come in handy as you keep the machinery running and reduce any potential gaps in production in a fast-paced environment that cannot afford to lose any time due to machinery malfunctions.</p><p>Job Responsibilities</p><ul><li>Inspect machinery and workpieces to ensure that they remain compliant with specifications to reduce any malfunctions and associated loss of production.</li><li>Ensure&nbsp;grinding&nbsp;wheels are dressed according to specifications so that the machines remain at peak working capability.</li><li>Stop any machines upon discovery of a problem and make the required adjustments as quickly as possible to minimize downtime.</li><li>Provide&nbsp;quality control&nbsp;by inspecting workpieces as they come out of the equipment and removing any defective pieces.</li><li>Operate machinery, including polishing and&nbsp;grinding&nbsp;equipment, to grind any&nbsp;metal&nbsp;workpieces to their prescribed specifications to ensure high-quality products.</li><li>Finish products by hand using&nbsp;hand tools&nbsp;to ensure the surfaces are filed or finished accordingly.</li><li>Keep all equipment running by inspecting and performing basic maintenance, including&nbsp;lubrication&nbsp;and cleaning, and&nbsp;scheduling&nbsp;repairs&nbsp;when needed.</li><li>Perform basic&nbsp;repairs, including replacing parts when they are worn down or broken, within the scope of expected knowledge and expertise.</li></ul><p>Job Skills &amp; Qualifications</p><p>Required:</p><ul><li>6 months to 1 year&nbsp;Grinding&nbsp;Experience</li><li>Able to stand all day and lift up to 50 pounds</li></ul><p>Preferred:</p><ul><li>Strong verbal and&nbsp;oral communication&nbsp;skills</li><li>Knowledge of machinery and&nbsp;equipment maintenance</li></ul><p>Job Type: Full-time</p><p>Pay: $12.00</p><br/><br><br>]]></description>
+          <jobtype><![CDATA[External (Teammate)]]></jobtype>
+          <category><![CDATA[Skilled Labor]]></category>
+          <subcategory><![CDATA[]]></subcategory>
+          <reqid><![CDATA[P-100784]]></reqid>
+          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
+          <expirationdate><![CDATA[2021-01-06T17:21:51.000Z]]></expirationdate>
+          <jobcode><![CDATA[]]></jobcode>
+          
+            <jobBoardId><![CDATA[ FORE]]></jobBoardId>
           
       </job>
   
@@ -10286,6 +10631,52 @@
       </job>
   
       <job>
+          <title><![CDATA[Poultry Production]]></title>
+          <date><![CDATA[12/30/2020]]></date>
+          <referencenumber><![CDATA[ONINGLOBALP-100768en_GLOBAL]]></referencenumber>
+          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100768en_GLOBAL/Poultry-Production?utm_source=indeed&utm_medium=phenom-feeds]]></url>
+          <company><![CDATA[Onin]]></company>
+          <city><![CDATA[Forest]]></city>
+          <state><![CDATA[Mississippi]]></state>
+          <country><![CDATA[United States]]></country>
+          <postalcode><![CDATA[]]></postalcode>
+          <description><![CDATA[<strong>Job Requirements </strong><br><p>Onin Staffing currently has openings for General Labor - Forest, MS area for 1st and 3rd shift!</p><p>The duties for this position may include:</p><ul><li>cutting, trimming, and packing poultry</li><li>use of knives and scissors</li><li>keep work area&nbsp;organized</li><li>other duties as assigned</li></ul><p>The job requirements include:</p><ul><li>standing 100% of the work day</li><li>performing repetitive motions in a regular basis</li><li>lifting front half from the conveyor to the cone line (5-8 lbs) frequently</li><li>Cold and wet environment</li><li>Punctuality&nbsp;and&nbsp;consistent&nbsp;attendance&nbsp;is a MUST</li></ul><p>Poultry experience is not necessary, but is preferred.&nbsp;Training&nbsp;may be available for this position.&nbsp;Consistent&nbsp;40 hours weekly with possible overtime. The opportunity to advance with&nbsp;consistent&nbsp;work ethic and&nbsp;attendance. After 30 days, you are eligible for medical, vision and dental benefits.</p><p>Departments available: Debone, Pack-out, Marination, Slicing, Rehang, Leg Quarter, Meat Prep, Wings and Shipping.</p><p>Call Onin Staffing to schedule an interview with our Recruiters, 601-469-2123.</p><p><strong style="font-size: 18px;">¡Se Habla Español!&nbsp;</strong>Llama a nuestras oficinas para programar una entrevista con nuestros Reclutadores, 601-469-2123.</p><p>Job Type: Full-time</p><p>1st shift hours: 7:00 a.m. to 4:00 p.m</p><p>3rd shift hours: 9:00 p.m. - 6:00 a.m.</p><p>Salary: $12.00 to $13.50 / hour</p><br/><br><br>]]></description>
+          <jobtype><![CDATA[External (Teammate)]]></jobtype>
+          <category><![CDATA[Food Processing]]></category>
+          <subcategory><![CDATA[]]></subcategory>
+          <reqid><![CDATA[P-100768]]></reqid>
+          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
+          <expirationdate><![CDATA[2021-01-06T15:51:13.000Z]]></expirationdate>
+          <jobcode><![CDATA[]]></jobcode>
+          
+            <jobBoardId><![CDATA[ FORE]]></jobBoardId>
+          
+      </job>
+  
+      <job>
+          <title><![CDATA[Debone Production]]></title>
+          <date><![CDATA[12/30/2020]]></date>
+          <referencenumber><![CDATA[ONINGLOBALP-100777en_GLOBAL]]></referencenumber>
+          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100777en_GLOBAL/Debone-Production?utm_source=indeed&utm_medium=phenom-feeds]]></url>
+          <company><![CDATA[Onin]]></company>
+          <city><![CDATA[Sebastopol]]></city>
+          <state><![CDATA[Mississippi]]></state>
+          <country><![CDATA[United States]]></country>
+          <postalcode><![CDATA[]]></postalcode>
+          <description><![CDATA[<strong>Job Requirements </strong><br><p>Onin Staffing is now hiring for 2nd shift Debone Production</p><p>Pay Rate: 13.15, Premium Pay for Skills</p><p>Shift Time : 4:15 pm - 1:30am</p><p>We are currently hiring for 2nd processing shifts . Please go to www.oninstaffing.com to apply and call 601-469-2123 for an interview.</p><p>The job requirements include:</p><p>standing 100% of the work day</p><p>performing repetitive motions in a regular basis</p><p>punctuality&nbsp;and&nbsp;consistent&nbsp;attendance&nbsp;is a MUST</p><p>Poultry experience is not necessary,&nbsp;training&nbsp;may be available</p><p>for this position.&nbsp;Consistent&nbsp;40 hours weekly with possible overtime. The</p><p>opportunity to advance with&nbsp;consistent&nbsp;work ethic and&nbsp;attendance. After 30 days</p><p>you are eligible for medical, vision and dental benefits.</p><p>If you are experienced in a skill such as wing rounder or</p><p>shoulder cutter, you may be eligible for a premium pay increase after 30 days.</p><p>Call Onin Staffing to schedule an interview with our Recruiters,</p><p>601-469-2123.</p><p>¡Se Habla Español! Llama a nuestras oficinas para programar una</p><p>entrevista con nuestros Reclutadores, 601-469-2123.</p><p>Please click the link below to schedule you an interview</p><p>https://calendly.com/fore-1/interviews</p><p>Job Type: Full-time</p><p>Pay: $13.15 per hour</p><p>Job Type: Full-time</p><p>Pay: $13.00 - $14.00 per hour</p><br/><br><br>]]></description>
+          <jobtype><![CDATA[External (Teammate)]]></jobtype>
+          <category><![CDATA[Food Processing]]></category>
+          <subcategory><![CDATA[]]></subcategory>
+          <reqid><![CDATA[P-100777]]></reqid>
+          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
+          <expirationdate><![CDATA[2021-01-06T16:58:26.000Z]]></expirationdate>
+          <jobcode><![CDATA[]]></jobcode>
+          
+            <jobBoardId><![CDATA[ FORE]]></jobBoardId>
+          
+      </job>
+  
+      <job>
           <title><![CDATA[Production Associate]]></title>
           <date><![CDATA[12/11/2020]]></date>
           <referencenumber><![CDATA[ONINGLOBALP-100235en_GLOBAL]]></referencenumber>
@@ -10746,29 +11137,6 @@
       </job>
   
       <job>
-          <title><![CDATA[Shipping/Receiving]]></title>
-          <date><![CDATA[12/29/2020]]></date>
-          <referencenumber><![CDATA[ONINGLOBALP-100695en_GLOBAL]]></referencenumber>
-          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100695en_GLOBAL/Shipping-Receiving?utm_source=indeed&utm_medium=phenom-feeds]]></url>
-          <company><![CDATA[Onin]]></company>
-          <city><![CDATA[Grand Prairie]]></city>
-          <state><![CDATA[Texas]]></state>
-          <country><![CDATA[United States]]></country>
-          <postalcode><![CDATA[]]></postalcode>
-          <description><![CDATA[<strong>Job Requirements </strong><br><p>Need someone who is experience with shipping and receiving. You will be sending out packages and making sure everything is in its correct location before being sent off. You a<span style="color: rgb(67, 81, 92);">lso have to be willing to learn how to use a forklift.</span></p><br><br><strong>Work Experience </strong><br><p>Experience with shipping/receiving and RF scanners. Must send a resume.</p><br><br><strong>Benefits </strong><br><p><span style="color: rgb(127, 127, 127);">After 30 days of working with Onin you are enrolled in our benefits. You only pay $17.82 per pay check and the co pay is only $5.00. You will be enrolled in Dental, Vision, and Medical. We also offer a service called Teledoctor. You can call or video chat with a Dr. (free of charge), explain your symptoms, and if needed he can prescribe you something over the phone.</span></p><br><br>]]></description>
-          <jobtype><![CDATA[External (Teammate)]]></jobtype>
-          <category><![CDATA[Warehouse & Logistics]]></category>
-          <subcategory><![CDATA[]]></subcategory>
-          <reqid><![CDATA[P-100695]]></reqid>
-          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
-          <expirationdate><![CDATA[]]></expirationdate>
-          <jobcode><![CDATA[]]></jobcode>
-          
-            <jobBoardId><![CDATA[ ]]></jobBoardId>
-          
-      </job>
-  
-      <job>
           <title><![CDATA[Purchaser for Manufacturing of Metal Stamping Industry]]></title>
           <date><![CDATA[12/29/2020]]></date>
           <referencenumber><![CDATA[ONINGLOBALP-100740en_GLOBAL]]></referencenumber>
@@ -10834,6 +11202,75 @@
           <jobcode><![CDATA[]]></jobcode>
           
             <jobBoardId><![CDATA[ ]]></jobBoardId>
+          
+      </job>
+  
+      <job>
+          <title><![CDATA[Unloader]]></title>
+          <date><![CDATA[12/30/2020]]></date>
+          <referencenumber><![CDATA[ONINGLOBALP-100769en_GLOBAL]]></referencenumber>
+          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100769en_GLOBAL/Unloader?utm_source=indeed&utm_medium=phenom-feeds]]></url>
+          <company><![CDATA[Onin]]></company>
+          <city><![CDATA[Statesboro]]></city>
+          <state><![CDATA[Georgia]]></state>
+          <country><![CDATA[United States]]></country>
+          <postalcode><![CDATA[]]></postalcode>
+          <description><![CDATA[<strong>Job Requirements </strong><br><p>Unloading trucks and wrapping freight using a manual pallet jack</p><br><br><strong>Benefits </strong><br><p>Health Insurance</p><p>Dental</p><p>Vision</p><br/><br><br>]]></description>
+          <jobtype><![CDATA[External (Teammate)]]></jobtype>
+          <category><![CDATA[Warehouse & Logistics]]></category>
+          <subcategory><![CDATA[]]></subcategory>
+          <reqid><![CDATA[P-100769]]></reqid>
+          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
+          <expirationdate><![CDATA[]]></expirationdate>
+          <jobcode><![CDATA[]]></jobcode>
+          
+            <jobBoardId><![CDATA[ STBO]]></jobBoardId>
+          
+      </job>
+  
+      <job>
+          <title><![CDATA[HR Clerk]]></title>
+          <date><![CDATA[12/30/2020]]></date>
+          <referencenumber><![CDATA[ONINGLOBALP-100779en_GLOBAL]]></referencenumber>
+          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100779en_GLOBAL/HR-Clerk?utm_source=indeed&utm_medium=phenom-feeds]]></url>
+          <company><![CDATA[Onin]]></company>
+          <city><![CDATA[Sebastopol]]></city>
+          <state><![CDATA[Mississippi]]></state>
+          <country><![CDATA[United States]]></country>
+          <postalcode><![CDATA[]]></postalcode>
+          <description><![CDATA[<strong>Job Requirements </strong><br><p>Onin Staffing is currently hiring for an HR Clerk position. Must have good&nbsp;clerical skills&nbsp;and be fluent in&nbsp;Microsoft excel.</p><p>Responsibilities may include:</p><ul><li>Maintaining employee records</li><li>Presenting benefits packages</li><li>Interviewing new employees, checking references and&nbsp;organizing&nbsp;background checks</li><li>Providing policy&nbsp;training</li></ul><p>Must have&nbsp;Excel&nbsp;experience.</p><p>Shift is from 1pm to 10pm Monday - Friday</p><p>Pay: $12.00 to $14.00 per hour.</p><p>Job Type: Full-time</p><br/><br><br>]]></description>
+          <jobtype><![CDATA[External (Teammate)]]></jobtype>
+          <category><![CDATA[Office & Administration]]></category>
+          <subcategory><![CDATA[]]></subcategory>
+          <reqid><![CDATA[P-100779]]></reqid>
+          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
+          <expirationdate><![CDATA[2021-01-06T17:05:02.000Z]]></expirationdate>
+          <jobcode><![CDATA[]]></jobcode>
+          
+            <jobBoardId><![CDATA[ FORE]]></jobBoardId>
+          
+      </job>
+  
+      <job>
+          <title><![CDATA[Shipping/Receiving]]></title>
+          <date><![CDATA[12/30/2020]]></date>
+          <referencenumber><![CDATA[ONINGLOBALP-100695en_GLOBAL]]></referencenumber>
+          <url><![CDATA[https://jobs.oningroup.com/global/en/job/ONINGLOBALP-100695en_GLOBAL/Shipping-Receiving?utm_source=indeed&utm_medium=phenom-feeds]]></url>
+          <company><![CDATA[Onin]]></company>
+          <city><![CDATA[Grand Prairie]]></city>
+          <state><![CDATA[Texas]]></state>
+          <country><![CDATA[United States]]></country>
+          <postalcode><![CDATA[]]></postalcode>
+          <description><![CDATA[<strong>Job Requirements </strong><br><p>Need someone who is experience with shipping and receiving. You will be sending out packages and making sure everything is in its correct location before being sent off. You a<span style="color: rgb(67, 81, 92);">lso have to be willing to learn how to use a forklift.</span></p><br><br><strong>Work Experience </strong><br><p>Experience with shipping/receiving and RF scanners. Must send a resume.</p><br><br><strong>Benefits </strong><br><p><span style="color: rgb(127, 127, 127);">After 30 days of working with Onin you are enrolled in our benefits. You only pay $17.82 per pay check and the co pay is only $5.00. You will be enrolled in Dental, Vision, and Medical. We also offer a service called Teledoctor. You can call or video chat with a Dr. (free of charge), explain your symptoms, and if needed he can prescribe you something over the phone.</span></p><br><br>]]></description>
+          <jobtype><![CDATA[External (Teammate)]]></jobtype>
+          <category><![CDATA[Warehouse & Logistics]]></category>
+          <subcategory><![CDATA[]]></subcategory>
+          <reqid><![CDATA[P-100695]]></reqid>
+          <indeed-apply-data><![CDATA[]]></indeed-apply-data>
+          <expirationdate><![CDATA[2021-01-29T17:30:49.000Z]]></expirationdate>
+          <jobcode><![CDATA[]]></jobcode>
+          
+            <jobBoardId><![CDATA[ ARLI]]></jobBoardId>
           
       </job>
   
